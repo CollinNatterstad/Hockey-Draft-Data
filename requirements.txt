@@ -1,0 +1,10 @@
+#code checking library 
+pylint
+
+#Allows for the use of .env secret files. 
+python-dotenv
+
+#library used to update postgreSQL
+psycopg2
+
+#
