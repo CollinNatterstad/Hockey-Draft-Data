@@ -1,0 +1,4382 @@
+[
+    {
+        "NHL Scoring Stats": "Age",
+        "NHL Goalie Stats": "PTS",
+        "": "+/-",
+        "null": [
+            "PIM",
+            "GP",
+            "W",
+            "L",
+            "T/O",
+            "SV%",
+            "GAA",
+            "PS"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "805",
+        "": "-11",
+        "null": [
+            "750",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "102.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "28",
+        "": "0",
+        "null": [
+            "42",
+            "649",
+            "310",
+            "233",
+            "67",
+            ".912",
+            "2.71",
+            "116.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "424",
+        "": "-17",
+        "null": [
+            "635",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "83.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "282",
+        "": "-8",
+        "null": [
+            "484",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "47.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "259",
+        "": "-30",
+        "null": [
+            "383",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "39.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "284",
+        "": "9",
+        "null": [
+            "615",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "29.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "420",
+        "": "-79",
+        "null": [
+            "407",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "45.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "356",
+        "": "6",
+        "null": [
+            "190",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "36.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "123",
+        "": "-73",
+        "null": [
+            "401",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "5.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "175",
+        "": "-13",
+        "null": [
+            "612",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "33.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "99",
+        "": "-42",
+        "null": [
+            "359",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "16.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "517",
+        "": "71",
+        "null": [
+            "582",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "65.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "333",
+        "": "-30",
+        "null": [
+            "220",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "32.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "14",
+        "": "-13",
+        "null": [
+            "36",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "161",
+        "": "-26",
+        "null": [
+            "149",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "5.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "85",
+        "": "-18",
+        "null": [
+            "114",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "13.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "172",
+        "": "15",
+        "null": [
+            "135",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "15.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "107",
+        "": "14",
+        "null": [
+            "108",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "21.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "180",
+        "": "-42",
+        "null": [
+            "379",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "16.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "85",
+        "": "-12",
+        "null": [
+            "875",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "6.9"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "622",
+        "": "42",
+        "null": [
+            "454",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "64.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "13",
+        "": "0",
+        "null": [
+            "48",
+            "701",
+            "334",
+            "256",
+            "88",
+            ".908",
+            "2.74",
+            "113.8"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "10",
+            "61",
+            "18",
+            "24",
+            "10",
+            ".890",
+            "3.37",
+            "7.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "138",
+        "": "-17",
+        "null": [
+            "407",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "9.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "4",
+        "": "0",
+        "null": [
+            "8",
+            "62",
+            "23",
+            "32",
+            "4",
+            ".901",
+            "3.24",
+            "9.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "1",
+        "": "0",
+        "null": [
+            "0",
+            "11",
+            "1",
+            "3",
+            "2",
+            ".883",
+            "3.49",
+            "0.8"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "388",
+        "": "2",
+        "null": [
+            "618",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "34.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "48",
+        "": "-21",
+        "null": [
+            "76",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "3.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "2",
+        "": "0",
+        "null": [
+            "6",
+            "151",
+            "60",
+            "59",
+            "11",
+            ".918",
+            "2.45",
+            "27.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "2",
+        "": "-6",
+        "null": [
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "43",
+        "": "-33",
+        "null": [
+            "58",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "309",
+        "": "-8",
+        "null": [
+            "648",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "62.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "80",
+        "": "-10",
+        "null": [
+            "663",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "24.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "22",
+            "5",
+            "9",
+            "2",
+            ".887",
+            "3.43",
+            "2.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "1",
+        "": "1",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "2",
+        "": "-4",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "646",
+        "": "159",
+        "null": [
+            "675",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "117.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "413",
+        "": "-3",
+        "null": [
+            "526",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "33.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "428",
+        "": "40",
+        "null": [
+            "243",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "47.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "206",
+        "": "123",
+        "null": [
+            "331",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "49.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "335",
+        "": "-43",
+        "null": [
+            "200",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "32.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "0",
+        "": "-1",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "12",
+        "": "-6",
+        "null": [
+            "296",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "3.9"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "1",
+        "": "1",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "187",
+        "": "-33",
+        "null": [
+            "696",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "8.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "0",
+        "": "3",
+        "null": [
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "163",
+        "": "-24",
+        "null": [
+            "162",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "14.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "4",
+        "": "5",
+        "null": [
+            "16",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "11",
+            "2",
+            "4",
+            "1",
+            ".878",
+            "3.70",
+            "0.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "11",
+        "": "-27",
+        "null": [
+            "63",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "473",
+        "": "-37",
+        "null": [
+            "166",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "43.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "262",
+        "": "6",
+        "null": [
+            "293",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "24.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "530",
+        "": "-4",
+        "null": [
+            "346",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "47.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "22",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "22",
+        "": "1",
+        "null": [
+            "85",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "21",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "28",
+        "": "-17",
+        "null": [
+            "185",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "5.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "93",
+        "": "-32",
+        "null": [
+            "77",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "4.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "14",
+        "": "-26",
+        "null": [
+            "774",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-1.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "28",
+        "": "7",
+        "null": [
+            "94",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "6.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "14",
+        "": "-5",
+        "null": [
+            "19",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "223",
+        "": "-40",
+        "null": [
+            "198",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "40.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "5",
+        "": "-11",
+        "null": [
+            "87",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-1.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "28",
+        "NHL Goalie Stats": "50",
+        "": "-3",
+        "null": [
+            "50",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "5.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "3",
+        "": "-4",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "10",
+        "": "-3",
+        "null": [
+            "139",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "",
+            "0.00",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "21",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "274",
+        "": "-22",
+        "null": [
+            "459",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "44.8"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1.000",
+            "0.00",
+            "0.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "1",
+        "": "0",
+        "null": [
+            "0",
+            "35",
+            "7",
+            "17",
+            "3",
+            ".890",
+            "3.60",
+            "3.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "13",
+        "": "-6",
+        "null": [
+            "48",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "4",
+        "": "0",
+        "null": [
+            "4",
+            "249",
+            "94",
+            "95",
+            "20",
+            ".907",
+            "2.83",
+            "35.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "26",
+        "NHL Goalie Stats": "1",
+        "": "0",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "2",
+        "": "-1",
+        "null": [
+            "104",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "106",
+        "": "-11",
+        "null": [
+            "254",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "19.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "22",
+        "NHL Goalie Stats": "24",
+        "": "-4",
+        "null": [
+            "30",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.9"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "11",
+        "": "-14",
+        "null": [
+            "215",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "179",
+        "": "46",
+        "null": [
+            "254",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "35.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "15",
+        "": "-2",
+        "null": [
+            "61",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "10",
+        "": "2",
+        "null": [
+            "12",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "13",
+        "": "8",
+        "null": [
+            "10",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "27",
+        "NHL Goalie Stats": "0",
+        "": "0",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "1",
+        "": "-2",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "28",
+        "NHL Goalie Stats": "1",
+        "": "0",
+        "null": [
+            "6",
+            "100",
+            "35",
+            "45",
+            "11",
+            ".899",
+            "2.79",
+            "12.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "6",
+        "": "-5",
+        "null": [
+            "121",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "21",
+        "NHL Goalie Stats": "4",
+        "": "-3",
+        "null": [
+            "10",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "32",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "4",
+        "": "-21",
+        "null": [
+            "83",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-1.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "53",
+        "": "-5",
+        "null": [
+            "100",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "3.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "17",
+        "": "-27",
+        "null": [
+            "45",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "204",
+        "": "-27",
+        "null": [
+            "495",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "12.4"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "27",
+        "NHL Goalie Stats": "9",
+        "": "-2",
+        "null": [
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "146",
+        "": "-4",
+        "null": [
+            "133",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "15.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "387",
+        "": "-72",
+        "null": [
+            "503",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "66.3"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "3",
+        "": "-3",
+        "null": [
+            "0",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "25",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "28",
+        "NHL Goalie Stats": "6",
+        "": "1",
+        "null": [
+            "10",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "1.2"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "8",
+        "": "-3",
+        "null": [
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.6"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "63",
+        "": "-29",
+        "null": [
+            "148",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "3.9"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "1",
+        "": "-9",
+        "null": [
+            "18",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.5"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "24",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "16",
+        "": "-20",
+        "null": [
+            "58",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.0"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "21",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "21",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "23",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "23",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "1",
+        "": "-3",
+        "null": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "-0.1"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "60",
+        "": "-21",
+        "null": [
+            "554",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.9"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "20",
+        "NHL Goalie Stats": "4",
+        "": "-7",
+        "null": [
+            "23",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "0.7"
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "19",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "NHL Scoring Stats": "18",
+        "NHL Goalie Stats": "125",
+        "": "-21",
+        "null": [
+            "535",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "27.3"
+        ]
+    }
+]
