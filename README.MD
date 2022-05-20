@@ -1,3 +1,5 @@
+# Create .gitignore file FIRST. ignore .env and venv.
+
 # Creates a virtual environment within python. 
 '''Powershell.
 
