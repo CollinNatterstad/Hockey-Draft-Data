@@ -1,275 +1,273 @@
- 
-,Round 1,Round 1,,,,,,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Scoring Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,NHL Goalie Stats,
-Overall,Team,Player,Nat.,Pos,Age,To,Amateur Team,GP,G,A,PTS,+/-,PIM,GP,W,L,T/O,SV%,GAA,PS
-1,Atlanta Thrashers,Patrik Stefan\stefapa01,CZ,C,18,2007,Long Beach (IHL),455,64,124,188,-36,158,,,,,,,13.7
-2,Vancouver Canucks,Daniel Sedin\sedinda01,SE,LW,18,2018,MoDo Ornskoldsvik (Sweden),1306,393,648,1041,147,546,,,,,,,123.1
-3,Vancouver Canucks,Henrik Sedin\sedinhe01,SE,C,18,2018,MoDo Ornskoldsvik (Sweden),1330,240,830,1070,165,680,,,,,,,108.6
-4,New York Rangers,Pavel Brendl\brendpa01,CZ,RW,18,2006,Calgary (WHL),78,11,11,22,1,16,,,,,,,2.3
-5,New York Islanders,Tim Connolly\connoti01,US,C,18,2012,Erie (OHL),697,131,300,431,-55,300,,,,,,,36.7
-6,Nashville Predators,Brian Finley\finlebr01,CA,G,18,2007,Barrie (OHL),4,0,0,0,0,0,4,0,2,0,.851,4.70,0.0
-7,Washington Capitals,Kris Beech\beechkr01,CA,C,18,2008,Calgary (WHL),198,25,42,67,-37,113,,,,,,,4.1
-8,New York Islanders,Taylor Pyatt\pyattta01,CA,LW,18,2014,Sudbury (OHL),859,140,140,280,-14,430,,,,,,,24.8
-9,New York Rangers,Jamie Lundmark\lundmja01,CA,C,18,2010,Moose Jaw (WHL),295,40,59,99,-29,204,,,,,,,6.6
-10,New York Islanders,Branislav Mezei\mezeibr01,SK,D,18,2008,Belleville (OHL),240,5,19,24,-14,311,,,,,,,5.1
-11,Calgary Flames,Oleg Saprykin\sapryol01,RU,LW,18,2007,Seattle (WHL),325,55,82,137,-7,240,,,,,,,12.9
-12,Florida Panthers,Denis Shvidki\shvidde01,UA,RW,18,2004,Barrie (OHL),76,11,14,25,-5,30,,,,,,,2.2
-13,Edmonton Oilers,Jani Rita\ritaja01,FI,LW,18,2006,Jokerit Helsinki (KHL),66,9,5,14,-4,10,,,,,,,1.1
-14,San Jose Sharks,Jeff Jillson\jillsje01,US,D,19,2006,Michigan (CCHA),140,9,32,41,-9,96,,,,,,,6.7
-15,Phoenix Coyotes,Scott Kelman,CA,C,,,Seattle (WHL),,,,,,,,,,,,,
-16,Carolina Hurricanes,David Tanabe\tanabda01,US,D,19,2008,Wisconsin (WCHA),449,30,84,114,-47,245,,,,,,,21.4
-17,St. Louis Blues,Barret Jackman\jackmba01,CA,D,18,2016,Regina (WHL),876,29,157,186,54,1102,,,,,,,46.9
-18,Pittsburgh Penguins,Konstantin Koltsov\koltsko01,BY,RW,18,2006,Cherepovets (KHL),144,12,26,38,-42,50,,,,,,,0.0
-19,Phoenix Coyotes,Kirill Safronov\safroki01,RU,D,18,2003,St. Petersburg (KHL),35,2,2,4,-15,16,,,,,,,-0.1
-20,Buffalo Sabres,Barrett Heisten\heistba01,US,LW,19,2002,U. of Maine (H-East),10,0,0,0,-4,2,,,,,,,-0.3
-21,Boston Bruins,Nick Boynton\boyntni01,CA,D,20,2011,Ottawa (OHL),605,34,110,144,19,862,,,,,,,30.0
-22,Philadelphia Flyers,Maxime Ouellet\ouellma01,CA,G,18,2006,Quebec (QMJHL),12,0,1,1,0,2,12,2,6,2,.903,3.08,2.0
-23,Chicago Blackhawks,Steve McCarthy\mccarst01,CA,D,18,2008,Kootenay (WHL),302,17,38,55,-34,168,,,,,,,8.9
-24,Toronto Maple Leafs,Luca Cereda,CH,C,,,Ambri-Piotta (Swiss),,,,,,,,,,,,,
-25,Colorado Avalanche,Mikhail Kuleshov\kulesmi01,RU,LW,18,2004,Cherepovets (KHL),3,0,0,0,-1,0,,,,,,,-0.1
-26,Ottawa Senators,Martin Havlat\havlama01,CZ,RW,18,2016,Trinec (Czech),790,242,352,594,78,404,,,,,,,70.6
-27,New Jersey Devils,Ari Ahonen,FI,G,,,JYP HT Jyvaskyla Jr. (Finland-Jr.),,,,,,,,,,,,,
-28,New York Islanders,Kristian Kudroc\kudrokr01,SK,D,18,2004,Michalovce (Slovakia-2),26,2,2,4,0,38,,,,,,,0.9
-29,Washington Capitals,Michal Sivek\sivekmi01,CZ,C,18,2003,Poldi Kladno (Czech),38,3,3,6,-5,14,,,,,,,0.0
-30,Atlanta Thrashers,Luke Sellars\sellalu01,CA,D,18,2002,Ottawa (OHL),1,0,0,0,0,2,,,,,,,0.0
-31,Washington Capitals,Charlie Stephens\stephch01,CA,C/RW,18,2004,Guelph (OHL),8,0,2,2,-1,4,,,,,,,0.1
-32,Dallas Stars,Michael Ryan\ryanmi01,US,C,19,2009,Bos. College High (High-MA),83,7,8,15,-15,34,,,,,,,0.0
-33,Nashville Predators,Jonas Andersson\anderjo02,SE,RW,18,2011,AIK Solna Jr. (Sweden-2),9,0,0,0,-1,2,,,,,,,-0.2
-34,Washington Capitals,Ross Lupaschuk\lupasro01,CA,D,18,2003,Prince Albert (WHL),3,0,0,0,-3,4,,,,,,,-0.2
-35,Buffalo Sabres,Milan Bartovic\bartomi01,SK,RW,18,2006,Dukla Trencin Jr. (Slovak-Jr.),50,3,14,17,1,26,,,,,,,1.3
-36,Edmonton Oilers,Alexei Semenov\semenal01,RU,D,18,2009,Sudbury (OHL),211,7,26,33,1,249,,,,,,,7.3
-37,Washington Capitals,Nolan Yonkman\yonkmno01,CA,D,18,2014,Kelowna (WHL),76,1,9,10,7,140,,,,,,,2.2
-38,Calgary Flames,Dan Cavanaugh,US,C,,,Boston University (H-East),,,,,,,,,,,,,
-39,Montreal Canadiens,Alexander Buturlin,RU,RW,,,CSKA Moscow (Russia),,,,,,,,,,,,,
-40,Florida Panthers,Alex Auld\auldal01,CA,G,18,2012,North Bay (OHL),237,0,7,7,0,12,237,91,88,32,.904,2.80,35.8
-41,Edmonton Oilers,Tony Salmelainen\salmeto01,FI,LW,18,2007,HIFK Helsinki (Finland),70,6,12,18,-4,30,,,,,,,1.1
-42,New Jersey Devils,Mike Commodore\commomi01,CA,D,19,2012,North Dakota (WCHA),484,23,83,106,-3,683,,,,,,,20.3
-43,Los Angeles Kings,Andrei Shefer,RU,LW,,,Cherepovets (KHL),,,,,,,,,,,,,
-44,Anaheim Ducks,Jordan Leopold\leopojo01,US,D,19,2015,Minnesota (WCHA),695,67,147,214,-37,293,,,,,,,43.5
-45,Colorado Avalanche,Martin Grenier\grenima01,CA,D,18,2007,Quebec (QMJHL),18,1,0,1,-1,14,,,,,,,0.2
-46,Chicago Blackhawks,Dimitri Levinski,KZ,LW,,,Cherepovets (KHL),,,,,,,,,,,,,
-47,Tampa Bay Lightning,Sheldon Keefe\keefesh01,CA,RW,18,2003,Barrie (OHL),125,12,12,24,-25,78,,,,,,,0.9
-48,Ottawa Senators,Simon Lajeunesse\lajeusi01,CA,G,18,2002,Moncton (QMJHL),1,0,0,0,0,0,1,0,0,0,1.000,0.00,0.2
-49,Carolina Hurricanes,Brett Lysak\lysakbr01,CA,C,18,2004,Regina (WHL),2,0,0,0,0,2,,,,,,,0.0
-50,New Jersey Devils,Brett Clouthier,CA,LW,,,Kingston (OHL),,,,,,,,,,,,,
-51,Pittsburgh Penguins,Matt Murley\murlema01,US,LW,19,2008,RPI (ECAC),62,2,7,9,-14,38,,,,,,,-0.7
-52,Nashville Predators,Adam Hall\hallad01,US,RW,19,2014,Michigan State (CCHA),682,69,87,156,-76,282,,,,,,,5.3
-53,Phoenix Coyotes,Brad Ralph\ralphbr01,CA,LW,18,2001,Oshawa (OHL),1,0,0,0,0,0,,,,,,,0.0
-54,Nashville Predators,Andrew Hutchinson\hutchan01,US,D,19,2011,Michigan State (CCHA),140,12,27,39,-13,70,,,,,,,5.9
-55,Buffalo Sabres,Doug Janik\janikdo01,US,D,19,2012,U. of Maine (H-East),190,3,16,19,-19,154,,,,,,,3.1
-56,Boston Bruins,Matt Zultek,CA,LW,,,Ottawa (OHL),,,,,,,,,,,,,
-57,Pittsburgh Penguins,Jeremy Van Hoof\vanhoje01,CA,D,18,,Ottawa (OHL),,,,,,,,,,,,,
-58,Montreal Canadiens,Matt Carkner\carknma01,CA,D,18,2014,Peterborough (OHL),237,4,23,27,-12,556,,,,,,,5.9
-59,New York Rangers,David Inman,US,C,,,Notre Dame (CCHA),,,,,,,,,,,,,
-60,Toronto Maple Leafs,Peter Reynolds\reynope01,CA,D,18,,London (OHL),,,,,,,,,,,,,
-61,Nashville Predators,Ed Hill,US,D,,,Barrie (OHL),,,,,,,,,,,,,
-62,Ottawa Senators,Teemu Sainomaa,FI,LW,,,Jokerit Helsinki Jr. (Finland-Jr.),,,,,,,,,,,,,
-63,Chicago Blackhawks,Stepan Mokhov,KZ,D,,,Cherepovets (KHL),,,,,,,,,,,,,
-64,Buffalo Sabres,Mike Zigomanis\zigommi01,CA,C,18,2011,Kingston (OHL),197,21,19,40,-21,89,,,,,,,1.4
-65,Nashville Predators,Jan Lasak\lasakja01,SK,G,20,2003,Zvolen (Slovakia),6,0,0,0,0,2,6,0,4,0,.874,4.04,0.3
-66,Dallas Stars,Dan Jancevski\janceda01,CA,D,18,2009,London (OHL),9,0,0,0,0,2,,,,,,,0.1
-67,Tampa Bay Lightning,Evgeny Konstantinov\konstev01,RU,G,18,2003,Ak Bars Kazan 2 (Russia-2),2,0,0,0,0,2,2,0,0,0,.833,2.94,0.0
-68,Atlanta Thrashers,Zdenek Blatny\blatnzd01,CZ,LW,18,2006,Seattle (WHL),25,3,0,3,-3,8,,,,,,,0.1
-69,Vancouver Canucks,Rene Vydareny,SK,D,,,Bratislava Jr.,,,,,,,,,,,,,
-70,Florida Panthers,Niklas Hagman\hagmani01,FI,LW,19,2012,HIFK Helsinki (Finland),770,147,154,301,-40,220,,,,,,,27.7
-71,Phoenix Coyotes,Jason Jaspers\jaspeja01,CA,C,18,2004,Sudbury (OHL),9,0,1,1,-3,6,,,,,,,-0.2
-72,Nashville Predators,Brett Angel,CA,D,,,North Bay (OHL),,,,,,,,,,,,,
-73,Buffalo Sabres,Tim Preston,CA,LW,,,Seattle (WHL),,,,,,,,,,,,,
-74,Los Angeles Kings,Jason Crain,US,D,,,Ohio State (CCHA),,,,,,,,,,,,,
-75,Tampa Bay Lightning,Brett Scheffelmaier\schefbr01,CA,D,18,,Medicine Hat (WHL),,,,,,,,,,,,,
-76,Los Angeles Kings,Frantisek Kaberle\kaberfr01,CZ,D,25,2009,MoDo Ornskoldsvik (Sweden),523,29,164,193,-19,218,,,,,,,30.2
-77,Calgary Flames,Craig Anderson\andercr01,US,G,18,2022,Guelph (OHL),683,0,19,19,0,54,683,308,264,71,.912,2.85,125.6
-78,New York Islanders,Mattias Weinhandl\weinhma01,SE,RW,19,2007,Troja (Sweden-3),182,19,37,56,1,70,,,,,,,4.6
-79,New York Rangers,Johan Asplund,SE,G,,,Brynas Gavle (Sweden),,,,,,,,,,,,,
-80,Florida Panthers,Jean-Francois Laniel,CA,G,,,Shawinigan (QMJHL),,,,,,,,,,,,,
-81,Edmonton Oilers,Adam Hauser\hausead01,US,G,19,2006,Minnesota (WCHA),1,0,0,0,0,0,1,0,0,0,.750,7.08,-0.2
-82,San Jose Sharks,Mark Concannon,US,LW,,,Winchendon (High-MA),,,,,,,,,,,,,
-83,Anaheim Ducks,Niclas Havelid\havelni01,SE,D,26,2009,Malmo (Sweden),628,34,137,171,-31,342,,,,,,,32.9
-84,Carolina Hurricanes,Brad Fast\fastbr01,CA,D,19,2004,Prince George (WHL),1,1,0,1,1,0,,,,,,,0.3
-85,St. Louis Blues,Peter Smrek\smrekpe01,SK,D,20,2002,Des Moines (USHL),28,2,4,6,-5,18,,,,,,,0.6
-86,Pittsburgh Penguins,Sebastien Caron\caronse01,CA,G,19,2012,Rimouski (QMJHL),95,0,1,1,0,12,95,26,48,12,.892,3.44,11.8
-87,New York Islanders,Brian Collins,US,C,,,St. John's (High-MA),,,,,,,,,,,,,
-88,Tampa Bay Lightning,Jimmie Olvestad\olvesji01,SE,LW,19,2003,Djurgarden (Sweden),111,3,14,17,1,40,,,,,,,0.1
-89,Boston Bruins,Kyle Wanvig\wanviky01,CA,RW,18,2008,Kootenay (WHL),75,6,9,15,-11,94,,,,,,,0.6
-90,New York Rangers,Patrick Aufiero,US,D,,,Boston University (H-East),,,,,,,,,,,,,
-91,Edmonton Oilers,Mike Comrie\comrimi01,CA,C,19,2011,Michigan (CCHA),589,168,197,365,-49,443,,,,,,,38.1
-92,Los Angeles Kings,Cory Campbell,CA,G,,,Belleville (OHL),,,,,,,,,,,,,
-93,Colorado Avalanche,Branko Radivojevic\radivbr01,SK,RW,18,2008,Belleville (OHL),393,52,68,120,-35,252,,,,,,,7.8
-94,Ottawa Senators,Chris Kelly\kellych01,CA,C/LW,18,2018,London (OHL),845,123,168,291,40,417,,,,,,,24.1
-95,New Jersey Devils,Andre Lakos,AT,D,,,Barrie (OHL),,,,,,,,,,,,,
-96,Dallas Stars,Mathias Tjarnqvist\tjarnma01,SE,RW,20,2008,Rogle Angelholm (Sweden),173,13,19,32,-8,60,,,,,,,1.0
-97,Montreal Canadiens,Chris Dyment,US,D,,,Boston University (H-East),,,,,,,,,,,,,
-98,Atlanta Thrashers,David Kaczowka,CA,LW,,,Seattle (WHL),,,,,,,,,,,,,
-99,Atlanta Thrashers,Rob Zepp\zeppro01,CA,G,18,2015,Plymouth (OHL),10,0,0,0,0,0,10,5,2,0,.888,2.89,0.6
-100,New Jersey Devils,Teemu Kesa,FI,D,,,Ilves Tampere Jr. (Finland-Jr.),,,,,,,,,,,,,
-101,New York Islanders,Juraj Kolnik\kolniju01,SK,RW,18,2007,Rimouski (QMJHL),240,46,49,95,-13,84,,,,,,,8.5
-102,New York Islanders,Johan Halvardsson,SE,D,,,HV 71 Jonkoping (Sweden),,,,,,,,,,,,,
-103,Florida Panthers,Morgan McCormick,CA,RW,,,Kingston (OHL),,,,,,,,,,,,,
-104,Los Angeles Kings,Brian McGrattan\mcgrabr01,CA,RW,18,2015,Sudbury (OHL),317,10,17,27,-11,609,,,,,,,0.8
-105,Anaheim Ducks,Alexandr Chagodayev,RU,C,,,CSKA Moscow (Russia),,,,,,,,,,,,,
-106,Calgary Flames,Roman Rozakov,RU,D,,,Lada Togliatti 2 (Russia-3),,,,,,,,,,,,,
-107,Montreal Canadiens,Evan Lindsay,CA,G,,,Prince Albert (WHL),,,,,,,,,,,,,
-108,Toronto Maple Leafs,Mirko Murovic,CA,LW,,,Moncton (QMJHL),,,,,,,,,,,,,
-109,Florida Panthers,Rod Sarich,CA,D,,,Calgary (WHL),,,,,,,,,,,,,
-110,Toronto Maple Leafs,Jon Zion,CA,D,,,Ottawa (OHL),,,,,,,,,,,,,
-111,San Jose Sharks,Willie Levesque,US,RW,,,Northeastern (H-East),,,,,,,,,,,,,
-112,Colorado Avalanche,Sanny Lindstrom,SE,D,,,Huddinge (Sweden),,,,,,,,,,,,,
-113,Carolina Hurricanes,Ryan Murphy,US,LW,,,Bowling Green (CCHA),,,,,,,,,,,,,
-114,St. Louis Blues,Chad Starling,CA,D,,,Kamloops (WHL),,,,,,,,,,,,,
-115,Pittsburgh Penguins,Ryan Malone\malonry01,US,LW,19,2015,Omaha (USHL),647,179,191,370,-59,693,,,,,,,36.0
-116,Phoenix Coyotes,Ryan Lauzon,CA,C,,,Hull (QMJHL),,,,,,,,,,,,,
-117,Buffalo Sabres,Karel Mosovsky,CZ,LW,,,Regina (WHL),,,,,,,,,,,,,
-118,Boston Bruins,Jaakko Harikkala,FI,D,,,Lukko Rauma (Finland),,,,,,,,,,,,,
-119,Philadelphia Flyers,Jeff Feniak,CA,D,,,Calgary (WHL),,,,,,,,,,,,,
-120,Detroit Red Wings,Jari Tolsa,SE,C,,,Vastra Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,
-121,Nashville Predators,Yevgeny Pavlov,RU,RW,,,Lada Togliatti (KHL),,,,,,,,,,,,,
-122,Colorado Avalanche,Kristian Kovac,SK,RW,,,Kosice Jr. (Slovak-Jr.),,,,,,,,,,,,,
-123,Phoenix Coyotes,Preston Mizzi,CA,C,,,Peterborough (OHL),,,,,,,,,,,,,
-124,Nashville Predators,Alexandre Krevsun,RU,RW,,,CSK VVS Samara (Russia-3),,,,,,,,,,,,,
-125,Los Angeles Kings,Daniel Johansson,SE,C,,,MoDo Ornskoldsvik Jr. (Sweden-Jr.),,,,,,,,,,,,,
-126,Dallas Stars,Jeff Bateman,CA,C,,,Brampton (OHL),,,,,,,,,,,,,
-127,Tampa Bay Lightning,Kaspars Astashenko\astaska01,LV,D/W,24,2001,Cincinnati (IHL),23,1,2,3,-6,8,,,,,,,0.2
-128,Atlanta Thrashers,Derek MacKenzie\mackede01,CA,C,18,2019,Sudbury (OHL),611,51,74,125,-7,337,,,,,,,7.6
-129,Vancouver Canucks,Ryan Thorpe,CA,LW,,,Spokane (WHL),,,,,,,,,,,,,
-130,New York Islanders,Justin Mapletoft\mapleju01,CA,C,18,2004,Red Deer (WHL),38,3,6,9,-2,8,,,,,,,0.7
-131,Nashville Predators,Konstantin Panov,RU,LW,,,Kamloops (WHL),,,,,,,,,,,,,
-132,Washington Capitals,Roman Tvrdon\tvrdoro01,SK,C,18,2004,Dukla Trencin Jr. (Slovak-Jr.),9,0,1,1,-3,2,,,,,,,-0.2
-133,Los Angeles Kings,Jean-Francois Nogues,CA,G,,,Victoriaville (QMJHL),,,,,,,,,,,,,
-134,Chicago Blackhawks,Michael Jacobsen,CA,D,,,Belleville (OHL),,,,,,,,,,,,,
-135,Calgary Flames,Matt Doman,US,RW,,,Wisconsin (WCHA),,,,,,,,,,,,,
-136,Montreal Canadiens,Dusty Jamieson,CA,LW,,,Sarnia (OHL),,,,,,,,,,,,,
-137,New York Rangers,Garrett Bembridge\bembrga01,CA,RW,18,,Saskatoon (WHL),,,,,,,,,,,,,
-138,Buffalo Sabres,Ryan Miller\millery01,US,G,19,2021,Soo Indians (NAHL),796,0,12,12,0,48,796,391,289,88,.914,2.64,151.7
-139,Edmonton Oilers,Jonathan Fauteux,CA,D,,,Val d'Or (QMJHL),,,,,,,,,,,,,
-140,New York Islanders,Adam Johnson,US,D,,,Greenway (High-MN),,,,,,,,,,,,,
-141,Anaheim Ducks,Maxim Rybin,RU,LW,,,Spartak Moscow (KHL),,,,,,,,,,,,,
-142,Colorado Avalanche,Will Magnuson,US,D,,,Lake Superior State (CCHA),,,,,,,,,,,,,
-143,St. Louis Blues,Trevor Byrne,US,D,,,Deerfield Academy (High-MA),,,,,,,,,,,,,
-144,Pittsburgh Penguins,Tomas Skvaridlo,SK,C,,,Zvolen Jr. (Slovak-Jr.),,,,,,,,,,,,,
-145,Montreal Canadiens,Marc-Andre Thinel,CA,RW,,,Victoriaville (QMJHL),,,,,,,,,,,,,
-146,Buffalo Sabres,Matt Kinch,CA,D,,,Calgary (WHL),,,,,,,,,,,,,
-147,Boston Bruins,Seamus Kotyk,CA,G,,,Ottawa (OHL),,,,,,,,,,,,,
-148,Tampa Bay Lightning,Michal Lanicek,CZ,G,,,Slavia Praha Jr. (Czech-Jr.),,,,,,,,,,,,,
-149,Detroit Red Wings,Andrei Maximenko,RU,LW,,,Krylja Sovetov (Russia),,,,,,,,,,,,,
-150,Montreal Canadiens,Matt Shasby,US,D,,,Des Moines (USHL),,,,,,,,,,,,,
-151,Toronto Maple Leafs,Vaclav Zavoral,CZ,D,,,Chemopetrol Litvinov Jr. (Czech),,,,,,,,,,,,,
-152,Colorado Avalanche,Jordan Krestanovich\krestjo01,CA,LW,18,2004,Calgary (WHL),22,0,2,2,1,6,,,,,,,-0.1
-153,Calgary Flames,Jesse Cook,US,D,,,Denver (WCHA),,,,,,,,,,,,,
-154,Ottawa Senators,Andrew Ianiero,CA,LW,,,Kingston (OHL),,,,,,,,,,,,,
-155,San Jose Sharks,Niko Dimitrakos\dimitni01,US,RW,20,2007,U. of Maine (H-East),158,24,38,62,-1,95,,,,,,,5.6
-156,Dallas Stars,Gregor Baumgartner,AT,LW,,,Acadie-Bathurst (QMJHL),,,,,,,,,,,,,
-157,Pittsburgh Penguins,Vladimir Malenkykh,RU,D,,,Lada Togliatti (KHL),,,,,,,,,,,,,
-158,Colorado Avalanche,Anders Lovdahl,SE,C,,,HV 71 Jonkoping Jr. (Sweden-Jr.),,,,,,,,,,,,,
-159,Atlanta Thrashers,Yuri Dobryshkin,RU,RW,,,Krylja Sovetov (Russia),,,,,,,,,,,,,
-160,Philadelphia Flyers,Konstantin Rudenko,KZ,LW,,,Cherepovets 2 (Russia-3),,,,,,,,,,,,,
-161,Toronto Maple Leafs,Jan Sochor,CZ,LW,,,Slavia Praha (Czech-2),,,,,,,,,,,,,
-162,Nashville Predators,Timo Helbling\helblti01,CH,D,18,2007,Davos (Swiss),11,0,1,1,-4,8,,,,,,,-0.1
-163,New York Islanders,Bjorn Melin\melinbj01,SE,RW,18,2007,HV 71 Jonkoping Jr. (Sweden-Jr.),3,1,0,1,-1,0,,,,,,,0.1
-164,Ottawa Senators,Martin Prusek\prusema01,CZ,G,23,2006,Vitkovice (Czech),57,0,1,1,0,0,57,31,12,4,.909,2.36,7.6
-165,Chicago Blackhawks,Michael Leighton\leighmi01,CA,G,18,2017,Windsor (OHL),110,0,4,4,0,6,110,37,43,14,.900,2.97,14.5
-166,Calgary Flames,Cory Pecker,CA,C,,,Sault Ste. Marie (OHL),,,,,,,,,,,,,
-167,Montreal Canadiens,Sean Dixon,CA,D,,,Erie (OHL),,,,,,,,,,,,,
-168,Phoenix Coyotes,Erik Lewerstrom,SE,D,,,Grums (Sweden-3),,,,,,,,,,,,,
-169,Florida Panthers,Brad Woods,CA,D,,,Brampton (OHL),,,,,,,,,,,,,
-170,Calgary Flames,Matt Underhill\underma01,CA,G,19,2004,Cornell (ECAC),1,0,0,0,0,0,1,0,1,0,.879,3.95,0.1
-171,Edmonton Oilers,Chris Legg,CA,C,,,London Jr. B,,,,,,,,,,,,,
-172,Vancouver Canucks,Josh Reed,CA,D,,,Vernon (BCHL),,,,,,,,,,,,,
-173,Anaheim Ducks,Jan Sandstrom,SE,D,,,AIK Solna (Sweden),,,,,,,,,,,,,
-174,Carolina Hurricanes,Damian Surma\surmada01,US,C,18,2004,Plymouth (OHL),2,1,1,2,1,0,,,,,,,0.3
-175,Washington Capitals,Kyle Clark,US,RW,,,Harvard (ECAC),,,,,,,,,,,,,
-176,Pittsburgh Penguins,Doug Meyer,US,LW,,,Minnesota (WCHA),,,,,,,,,,,,,
-177,New York Rangers,Jay Dardis,US,C,,,Proctor (High-NH),,,,,,,,,,,,,
-178,Buffalo Sabres,Seneque Hyacinthe,CA,LW,,,Val d'Or (QMJHL),,,,,,,,,,,,,
-179,Boston Bruins,Donald Choukalos,CA,G,,,Regina (WHL),,,,,,,,,,,,,
-180,St. Louis Blues,Tore Vikingstad,NO,LW,,,Farjestad (Sweden),,,,,,,,,,,,,
-181,Detroit Red Wings,Kent McDonell\mcdonke01,CA,RW,20,2004,Guelph (OHL),32,1,2,3,-8,36,,,,,,,-0.3
-182,Tampa Bay Lightning,Fedor Fedorov\fedorfe01,RU,C,18,2006,Port Huron (IHL),18,0,2,2,0,14,,,,,,,-0.1
-183,Colorado Avalanche,Riku Hahl\hahlri01,FI,C,18,2004,HPK Hameenlinna (Finland),92,5,8,13,-3,38,,,,,,,0.0
-184,Dallas Stars,Justin Cox,CA,RW,,,Prince George (WHL),,,,,,,,,,,,,
-185,New Jersey Devils,Scott Cameron,CA,C,,,Barrie (OHL),,,,,,,,,,,,,
-186,Dallas Stars,Brett Draney,CA,LW,,,Kamloops (WHL),,,,,,,,,,,,,
-187,Tampa Bay Lightning,Ivan Rachunek,CZ,LW,,,ZPS Zlin Jr. (Czech-Jr.),,,,,,,,,,,,,
-188,Atlanta Thrashers,Stephen Baby,US,RW,,,Green Bay (USHL),,,,,,,,,,,,,
-189,Vancouver Canucks,Kevin Swanson,CA,G,,,Kelowna (WHL),,,,,,,,,,,,,
-190,Calgary Flames,Blair Stayzer,CA,LW,,,Windsor (OHL),,,,,,,,,,,,,
-191,Nashville Predators,Martin Erat\eratma01,CZ,RW,18,2015,ZPS Zlin Jr. (Czech-Jr.),881,176,369,545,-6,506,,,,,,,52.6
-192,Washington Capitals,David Bornhammar,SE,D,,,AIK Solna Jr. (Sweden-2),,,,,,,,,,,,,
-193,Los Angeles Kings,Kevin Baker,CA,RW,,,Belleville (OHL),,,,,,,,,,,,,
-194,Chicago Blackhawks,Mattias Wennerberg,SE,C,,,MoDo Ornskoldsvik Jr. (Sweden-Jr.),,,,,,,,,,,,,
-195,Chicago Blackhawks,Yorick Treille,FR,RW,,,U. Mass-Lowell (H-East),,,,,,,,,,,,,
-196,Montreal Canadiens,Vadim Tarasov,KZ,G,,,Novokuznetsk (KHL),,,,,,,,,,,,,
-197,New York Rangers,Arto Laatikainen,FI,D,,,Espoo (Finland),,,,,,,,,,,,,
-198,Florida Panthers,Travis Eagles,CA,RW,,,Prince George (WHL),,,,,,,,,,,,,
-199,Edmonton Oilers,Christian Chartier,CA,D,,,Saskatoon (WHL),,,,,,,,,,,,,
-200,Philadelphia Flyers,Pavel Kasparik,CZ,C,,,Pisek (Czech-2),,,,,,,,,,,,,
-201,Ottawa Senators,Mikko Ruutu,FI,LW,,,HIFK Helsinki (Finland),,,,,,,,,,,,,
-202,Carolina Hurricanes,Jim Baxter,CA,D,,,Oshawa (OHL),,,,,,,,,,,,,
-203,St. Louis Blues,Phil Osaer,US,G,,,Ferris State (CCHA),,,,,,,,,,,,,
-204,Pittsburgh Penguins,Tom Kostopoulos\kostoto01,CA,RW,20,2013,London (OHL),630,61,96,157,-48,723,,,,,,,7.4
-205,Nashville Predators,Kyle Kettles,CA,G,,,Neepawa,,,,,,,,,,,,,
-206,Buffalo Sabres,Bret DeCecco,CA,RW,,,Seattle (WHL),,,,,,,,,,,,,
-207,Boston Bruins,Greg Barber,CA,RW,,,Victoria (WHL),,,,,,,,,,,,,
-208,Philadelphia Flyers,Vaclav Pletka\pletkva01,CZ,RW,20,2002,Trinec (Czech),1,0,0,0,0,0,,,,,,,0.0
-209,Ottawa Senators,Layne Ulmer\ulmerla01,CA,C,19,2004,Swift Current (WHL),1,0,0,0,-1,0,,,,,,,-0.1
-210,Detroit Red Wings,Henrik Zetterberg\zettehe01,SE,LW,18,2018,Timra (Sweden-2),1082,337,623,960,160,401,,,,,,,109.3
-211,Toronto Maple Leafs,Vladimir Kulikov,RU,G,,,CSKA Moscow (Russia),,,,,,,,,,,,,
-212,Colorado Avalanche,Radim Vrbata\vrbatra01,CZ,RW,18,2018,Hull (QMJHL),1057,284,339,623,-19,294,,,,,,,69.1
-213,Ottawa Senators,Alexandre Giroux\giroual01,CA,C/LW,18,2012,Hull (QMJHL),48,6,6,12,-2,26,,,,,,,0.8
-214,New Jersey Devils,Chris Hartsburg,US,RW,,,Colorado College (WCHA),,,,,,,,,,,,,
-215,Dallas Stars,Jeff MacMillan\macmije01,CA,D,20,2004,Oshawa (OHL),4,0,0,0,-2,0,,,,,,,-0.1
-216,Tampa Bay Lightning,Erkki Rajamaki,FI,LW,,,HIFK Helsinki (Finland),,,,,,,,,,,,,
-217,Atlanta Thrashers,Garnet Exelby\exelbga01,CA,D,18,2010,Saskatoon (WHL),408,7,43,50,-28,584,,,,,,,8.4
-218,Vancouver Canucks,Markus Kankaanpera,SE,D,,,JyP HT Jyvaskyla (Finland),,,,,,,,,,,,,
-219,Washington Capitals,Maxim Orlov,RU,C,,,CSKA Moscow (Russia),,,,,,,,,,,,,
-220,Nashville Predators,Miroslav Durak,SK,D,,,Bratislava Jr.,,,,,,,,,,,,,
-221,St. Louis Blues,Colin Hemingway\heminco01,CA,RW,19,2006,Surrey (BCHL),3,0,0,0,-2,0,,,,,,,-0.1
-222,Los Angeles Kings,George Parros\parroge01,US,RW,19,2014,Chicago (USHL),474,18,18,36,-11,1092,,,,,,,0.4
-223,Chicago Blackhawks,Andrew Carver,CA,D,,,Hull (QMJHL),,,,,,,,,,,,,
-224,Philadelphia Flyers,David Nystrom,SE,LW,,,Vastra Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,
-225,Montreal Canadiens,Mikko Hyytia,FI,C,,,JYP HT Jyvaskyla Jr. (Finland-Jr.),,,,,,,,,,,,,
-226,New York Rangers,Yevgeny Gusakov,RU,RW,,,Lada Togliatti 2 (Russia-3),,,,,,,,,,,,,
-227,Florida Panthers,Jonathon Charron,CA,G,,,Val d'Or (QMJHL),,,,,,,,,,,,,
-228,New York Islanders,Radek Martinek\martira01,CZ,D,23,2014,Ceske Budejovice (Czech-2),486,25,85,110,-11,280,,,,,,,22.3
-229,San Jose Sharks,Eric Betournay,CA,C,,,Acadie-Bathurst (QMJHL),,,,,,,,,,,,,
-230,Anaheim Ducks,Petr Tenkrat\tenkrpe01,CZ,RW,22,2007,Poldi Kladno (Czech),177,22,30,52,-37,84,,,,,,,2.9
-231,Carolina Hurricanes,David Evans,US,RW,,,Clarkson (ECAC),,,,,,,,,,,,,
-232,St. Louis Blues,Alexander Khavanov\khavaal01,RU,D,27,2006,Dynamo Moscow (Russia),348,27,75,102,15,233,,,,,,,22.0
-233,Pittsburgh Penguins,Darcy Robinson,CA,D,,,Saskatoon (WHL),,,,,,,,,,,,,
-234,Phoenix Coyotes,Goran Bezina\bezingo01,YU,D,19,2004,Fribourg,3,0,0,0,-1,2,,,,,,,-0.1
-235,Buffalo Sabres,Brad Self,CA,C,,,Peterborough (OHL),,,,,,,,,,,,,
-236,Boston Bruins,John Cronin,US,D,,,Boston University (H-East),,,,,,,,,,,,,
-237,Carolina Hurricanes,Antti Jokela,FI,G,,,Lukko Rauma Jr. (Finland-Jr.),,,,,,,,,,,,,
-238,Detroit Red Wings,Anton Borodkin,RU,LW,,,Kamloops (WHL),,,,,,,,,,,,,
-239,Toronto Maple Leafs,Pierre Hedin\hedinpi01,SE,D,21,2004,MoDo Ornskoldsvik (Sweden),3,0,1,1,-1,0,,,,,,,0.1
-240,Colorado Avalanche,Jeff Finger\fingeje01,US,D,19,2010,Green Bay (USHL),199,17,40,57,4,114,,,,,,,10.7
-241,San Jose Sharks,Douglas Murray\murrado01,SE,D,19,2014,NY Apple Core (EJHL),518,7,57,64,19,412,,,,,,,19.2
-242,New Jersey Devils,Justin Dziama,US,RW,,,Nobles (High-MA),,,,,,,,,,,,,
-243,Dallas Stars,Brian Sullivan,US,D,,,Thayer Academy (High-MA),,,,,,,,,,,,,
-244,Tampa Bay Lightning,Mikko Kuparinen,FI,D,,,Grand Rapids (IHL),,,,,,,,,,,,,
-245,Atlanta Thrashers,Tommi Santala\santato01,FI,C,20,2007,Jokerit Helsinki (KHL),63,2,7,9,-7,46,,,,,,,0.0
-246,Atlanta Thrashers,Raymond DiLauro,US,D,,,St. Lawrence (ECAC),,,,,,,,,,,,,
-247,Boston Bruins,Mikko Eloranta\elorami01,FI,LW,27,2003,TPS Turku (Finland),264,32,44,76,-24,186,,,,,,,5.4
-248,Nashville Predators,Darren Haydar\haydada01,CA,RW,19,2010,New Hampshire (H-East),23,1,7,8,3,2,,,,,,,0.7
-249,Washington Capitals,Igor Shadilov,RU,D,,,Dynamo Moscow (Russia),,,,,,,,,,,,,
-250,Los Angeles Kings,Noah Clarke\clarkno02,US,LW,20,2008,Des Moines (USHL),21,3,1,4,-5,4,,,,,,,0.2
-251,New York Rangers,Petter Henning,SE,RW,,,MoDo Ornskoldsvik (Sweden),,,,,,,,,,,,,
-252,Calgary Flames,Dmitri Kirilenko,US,C,,,CSKA Moscow (Russia),,,,,,,,,,,,,
-253,Montreal Canadiens,Jerome Marois,CA,LW,,,Quebec (QMJHL),,,,,,,,,,,,,
-254,New York Rangers,Alexei Bulatov,RU,RW,,,Yekaterinburg (Russia-2),,,,,,,,,,,,,
-255,New York Islanders,Brett Henning,US,C,,,Notre Dame (CCHA),,,,,,,,,,,,,
-256,Edmonton Oilers,Tamas Groschl,HU,RW,,,UTE Budapest,,,,,,,,,,,,,
-257,San Jose Sharks,Hannes Hyvonen\hyvonha01,FI,RW,24,2003,Espoo (Finland),42,4,5,9,-13,22,,,,,,,0.2
-258,Anaheim Ducks,Brian Gornick,US,C,,,Air Force (CHA),,,,,,,,,,,,,
-259,Carolina Hurricanes,Yevgeny Kurilin,BY,C,,,Alaska-Anchorage (WCHA),,,,,,,,,,,,,
-260,St. Louis Blues,Brian McMeekin,CA,D,,,Cornell (ECAC),,,,,,,,,,,,,
-261,Pittsburgh Penguins,Andrew McPherson,CA,LW,,,RPI (ECAC),,,,,,,,,,,,,
-262,Phoenix Coyotes,Alexei Litvinenko,KZ,D,,,Torpedo Ust-Kamenogorsk (Russia-2),,,,,,,,,,,,,
-263,Buffalo Sabres,Craig Brunel,CA,RW,,,Prince Albert (WHL),,,,,,,,,,,,,
-264,Boston Bruins,Georgy Pujacs,RU,D,,,Dynamo-81 Riga,,,,,,,,,,,,,
-265,Dallas Stars,Jamie Chamberlain,CA,RW,,,Peterborough (OHL),,,,,,,,,,,,,
-266,Detroit Red Wings,Ken Davis,CA,RW,,,Portland (WHL),,,,,,,,,,,,,
-267,Toronto Maple Leafs,Peter Metcalf,US,D,,,U. of Maine (H-East),,,,,,,,,,,,,
-268,New York Islanders,Tyler Scott,US,D,,,Upper Canada College,,,,,,,,,,,,,
-269,Ottawa Senators,Konstantin Gorovikov,RU,LW,,,St. Petersburg (KHL),,,,,,,,,,,,,
-270,St. Louis Blues,James Desmarais,CA,C,,,Rouyn Noranda (QMJHL),,,,,,,,,,,,,
-271,Vancouver Canucks,Darrell Hay,CA,D,,,Tri-City (WHL),,,,,,,,,,,,,
-272,Dallas Stars,Mikhail Donika,RU,D,,,Torpedo Yaroslavl (KHL),,,,,,,,,,,,,
+Overall,Team,Player,Nat.,Pos,Age,Start,To,Amateur Team,GP,G,A,PTS,+/-,PIM,GP,W,L,T/O,SV%,GAA,PS
+1,Atlanta Thrashers,Patrik Stefan\stefapa01,CZ,C,18,1999,2007,Long Beach (IHL),455,64,124,188,-36,158,,,,,,,13.7
+2,Vancouver Canucks,Daniel Sedin\sedinda01,SE,LW,18,1999,2018,MoDo Ornskoldsvik (Sweden),1306,393,648,1041,147,546,,,,,,,123.1
+3,Vancouver Canucks,Henrik Sedin\sedinhe01,SE,C,18,1999,2018,MoDo Ornskoldsvik (Sweden),1330,240,830,1070,165,680,,,,,,,108.6
+4,New York Rangers,Pavel Brendl\brendpa01,CZ,RW,18,1999,2006,Calgary (WHL),78,11,11,22,1,16,,,,,,,2.3
+5,New York Islanders,Tim Connolly\connoti01,US,C,18,1999,2012,Erie (OHL),697,131,300,431,-55,300,,,,,,,36.7
+6,Nashville Predators,Brian Finley\finlebr01,CA,G,18,1999,2007,Barrie (OHL),4,0,0,0,0,0,4,0,2,0,0.851,4.7,0
+7,Washington Capitals,Kris Beech\beechkr01,CA,C,18,1999,2008,Calgary (WHL),198,25,42,67,-37,113,,,,,,,4.1
+8,New York Islanders,Taylor Pyatt\pyattta01,CA,LW,18,1999,2014,Sudbury (OHL),859,140,140,280,-14,430,,,,,,,24.8
+9,New York Rangers,Jamie Lundmark\lundmja01,CA,C,18,1999,2010,Moose Jaw (WHL),295,40,59,99,-29,204,,,,,,,6.6
+10,New York Islanders,Branislav Mezei\mezeibr01,SK,D,18,1999,2008,Belleville (OHL),240,5,19,24,-14,311,,,,,,,5.1
+11,Calgary Flames,Oleg Saprykin\sapryol01,RU,LW,18,1999,2007,Seattle (WHL),325,55,82,137,-7,240,,,,,,,12.9
+12,Florida Panthers,Denis Shvidki\shvidde01,UA,RW,18,1999,2004,Barrie (OHL),76,11,14,25,-5,30,,,,,,,2.2
+13,Edmonton Oilers,Jani Rita\ritaja01,FI,LW,18,1999,2006,Jokerit Helsinki (KHL),66,9,5,14,-4,10,,,,,,,1.1
+14,San Jose Sharks,Jeff Jillson\jillsje01,US,D,19,1999,2006,Michigan (CCHA),140,9,32,41,-9,96,,,,,,,6.7
+15,Phoenix Coyotes,Scott Kelman,CA,C,,1999,,Seattle (WHL),,,,,,,,,,,,,
+16,Carolina Hurricanes,David Tanabe\tanabda01,US,D,19,1999,2008,Wisconsin (WCHA),449,30,84,114,-47,245,,,,,,,21.4
+17,St. Louis Blues,Barret Jackman\jackmba01,CA,D,18,1999,2016,Regina (WHL),876,29,157,186,54,1102,,,,,,,46.9
+18,Pittsburgh Penguins,Konstantin Koltsov\koltsko01,BY,RW,18,1999,2006,Cherepovets (KHL),144,12,26,38,-42,50,,,,,,,0
+19,Phoenix Coyotes,Kirill Safronov\safroki01,RU,D,18,1999,2003,St. Petersburg (KHL),35,2,2,4,-15,16,,,,,,,-0.1
+20,Buffalo Sabres,Barrett Heisten\heistba01,US,LW,19,1999,2002,U. of Maine (H-East),10,0,0,0,-4,2,,,,,,,-0.3
+21,Boston Bruins,Nick Boynton\boyntni01,CA,D,20,1999,2011,Ottawa (OHL),605,34,110,144,19,862,,,,,,,30
+22,Philadelphia Flyers,Maxime Ouellet\ouellma01,CA,G,18,1999,2006,Quebec (QMJHL),12,0,1,1,0,2,12,2,6,2,0.903,3.08,2
+23,Chicago Blackhawks,Steve McCarthy\mccarst01,CA,D,18,1999,2008,Kootenay (WHL),302,17,38,55,-34,168,,,,,,,8.9
+24,Toronto Maple Leafs,Luca Cereda,CH,C,,1999,,Ambri-Piotta (Swiss),,,,,,,,,,,,,
+25,Colorado Avalanche,Mikhail Kuleshov\kulesmi01,RU,LW,18,1999,2004,Cherepovets (KHL),3,0,0,0,-1,0,,,,,,,-0.1
+26,Ottawa Senators,Martin Havlat\havlama01,CZ,RW,18,1999,2016,Trinec (Czech),790,242,352,594,78,404,,,,,,,70.6
+27,New Jersey Devils,Ari Ahonen,FI,G,,1999,,JYP HT Jyvaskyla Jr. (Finland-Jr.),,,,,,,,,,,,,
+28,New York Islanders,Kristian Kudroc\kudrokr01,SK,D,18,1999,2004,Michalovce (Slovakia-2),26,2,2,4,0,38,,,,,,,0.9
+29,Washington Capitals,Michal Sivek\sivekmi01,CZ,C,18,1999,2003,Poldi Kladno (Czech),38,3,3,6,-5,14,,,,,,,0
+30,Atlanta Thrashers,Luke Sellars\sellalu01,CA,D,18,1999,2002,Ottawa (OHL),1,0,0,0,0,2,,,,,,,0
+31,Washington Capitals,Charlie Stephens\stephch01,CA,C/RW,18,1999,2004,Guelph (OHL),8,0,2,2,-1,4,,,,,,,0.1
+32,Dallas Stars,Michael Ryan\ryanmi01,US,C,19,1999,2009,Bos. College High (High-MA),83,7,8,15,-15,34,,,,,,,0
+33,Nashville Predators,Jonas Andersson\anderjo02,SE,RW,18,1999,2011,AIK Solna Jr. (Sweden-2),9,0,0,0,-1,2,,,,,,,-0.2
+34,Washington Capitals,Ross Lupaschuk\lupasro01,CA,D,18,1999,2003,Prince Albert (WHL),3,0,0,0,-3,4,,,,,,,-0.2
+35,Buffalo Sabres,Milan Bartovic\bartomi01,SK,RW,18,1999,2006,Dukla Trencin Jr. (Slovak-Jr.),50,3,14,17,1,26,,,,,,,1.3
+36,Edmonton Oilers,Alexei Semenov\semenal01,RU,D,18,1999,2009,Sudbury (OHL),211,7,26,33,1,249,,,,,,,7.3
+37,Washington Capitals,Nolan Yonkman\yonkmno01,CA,D,18,1999,2014,Kelowna (WHL),76,1,9,10,7,140,,,,,,,2.2
+38,Calgary Flames,Dan Cavanaugh,US,C,,1999,,Boston University (H-East),,,,,,,,,,,,,
+39,Montreal Canadiens,Alexander Buturlin,RU,RW,,1999,,CSKA Moscow (Russia),,,,,,,,,,,,,
+40,Florida Panthers,Alex Auld\auldal01,CA,G,18,1999,2012,North Bay (OHL),237,0,7,7,0,12,237,91,88,32,0.904,2.8,35.8
+41,Edmonton Oilers,Tony Salmelainen\salmeto01,FI,LW,18,1999,2007,HIFK Helsinki (Finland),70,6,12,18,-4,30,,,,,,,1.1
+42,New Jersey Devils,Mike Commodore\commomi01,CA,D,19,1999,2012,North Dakota (WCHA),484,23,83,106,-3,683,,,,,,,20.3
+43,Los Angeles Kings,Andrei Shefer,RU,LW,,1999,,Cherepovets (KHL),,,,,,,,,,,,,
+44,Anaheim Ducks,Jordan Leopold\leopojo01,US,D,19,1999,2015,Minnesota (WCHA),695,67,147,214,-37,293,,,,,,,43.5
+45,Colorado Avalanche,Martin Grenier\grenima01,CA,D,18,1999,2007,Quebec (QMJHL),18,1,0,1,-1,14,,,,,,,0.2
+46,Chicago Blackhawks,Dimitri Levinski,KZ,LW,,1999,,Cherepovets (KHL),,,,,,,,,,,,,
+47,Tampa Bay Lightning,Sheldon Keefe\keefesh01,CA,RW,18,1999,2003,Barrie (OHL),125,12,12,24,-25,78,,,,,,,0.9
+48,Ottawa Senators,Simon Lajeunesse\lajeusi01,CA,G,18,1999,2002,Moncton (QMJHL),1,0,0,0,0,0,1,0,0,0,1,0,0.2
+49,Carolina Hurricanes,Brett Lysak\lysakbr01,CA,C,18,1999,2004,Regina (WHL),2,0,0,0,0,2,,,,,,,0
+50,New Jersey Devils,Brett Clouthier,CA,LW,,1999,,Kingston (OHL),,,,,,,,,,,,,
+51,Pittsburgh Penguins,Matt Murley\murlema01,US,LW,19,1999,2008,RPI (ECAC),62,2,7,9,-14,38,,,,,,,-0.7
+52,Nashville Predators,Adam Hall\hallad01,US,RW,19,1999,2014,Michigan State (CCHA),682,69,87,156,-76,282,,,,,,,5.3
+53,Phoenix Coyotes,Brad Ralph\ralphbr01,CA,LW,18,1999,2001,Oshawa (OHL),1,0,0,0,0,0,,,,,,,0
+54,Nashville Predators,Andrew Hutchinson\hutchan01,US,D,19,1999,2011,Michigan State (CCHA),140,12,27,39,-13,70,,,,,,,5.9
+55,Buffalo Sabres,Doug Janik\janikdo01,US,D,19,1999,2012,U. of Maine (H-East),190,3,16,19,-19,154,,,,,,,3.1
+56,Boston Bruins,Matt Zultek,CA,LW,,1999,,Ottawa (OHL),,,,,,,,,,,,,
+57,Pittsburgh Penguins,Jeremy Van Hoof\vanhoje01,CA,D,18,1999,,Ottawa (OHL),,,,,,,,,,,,,
+58,Montreal Canadiens,Matt Carkner\carknma01,CA,D,18,1999,2014,Peterborough (OHL),237,4,23,27,-12,556,,,,,,,5.9
+59,New York Rangers,David Inman,US,C,,1999,,Notre Dame (CCHA),,,,,,,,,,,,,
+60,Toronto Maple Leafs,Peter Reynolds\reynope01,CA,D,18,1999,,London (OHL),,,,,,,,,,,,,
+61,Nashville Predators,Ed Hill,US,D,,1999,,Barrie (OHL),,,,,,,,,,,,,
+62,Ottawa Senators,Teemu Sainomaa,FI,LW,,1999,,Jokerit Helsinki Jr. (Finland-Jr.),,,,,,,,,,,,,
+63,Chicago Blackhawks,Stepan Mokhov,KZ,D,,1999,,Cherepovets (KHL),,,,,,,,,,,,,
+64,Buffalo Sabres,Mike Zigomanis\zigommi01,CA,C,18,1999,2011,Kingston (OHL),197,21,19,40,-21,89,,,,,,,1.4
+65,Nashville Predators,Jan Lasak\lasakja01,SK,G,20,1999,2003,Zvolen (Slovakia),6,0,0,0,0,2,6,0,4,0,0.874,4.04,0.3
+66,Dallas Stars,Dan Jancevski\janceda01,CA,D,18,1999,2009,London (OHL),9,0,0,0,0,2,,,,,,,0.1
+67,Tampa Bay Lightning,Evgeny Konstantinov\konstev01,RU,G,18,1999,2003,Ak Bars Kazan 2 (Russia-2),2,0,0,0,0,2,2,0,0,0,0.833,2.94,0
+68,Atlanta Thrashers,Zdenek Blatny\blatnzd01,CZ,LW,18,1999,2006,Seattle (WHL),25,3,0,3,-3,8,,,,,,,0.1
+69,Vancouver Canucks,Rene Vydareny,SK,D,,1999,,Bratislava Jr.,,,,,,,,,,,,,
+70,Florida Panthers,Niklas Hagman\hagmani01,FI,LW,19,1999,2012,HIFK Helsinki (Finland),770,147,154,301,-40,220,,,,,,,27.7
+71,Phoenix Coyotes,Jason Jaspers\jaspeja01,CA,C,18,1999,2004,Sudbury (OHL),9,0,1,1,-3,6,,,,,,,-0.2
+72,Nashville Predators,Brett Angel,CA,D,,1999,,North Bay (OHL),,,,,,,,,,,,,
+73,Buffalo Sabres,Tim Preston,CA,LW,,1999,,Seattle (WHL),,,,,,,,,,,,,
+74,Los Angeles Kings,Jason Crain,US,D,,1999,,Ohio State (CCHA),,,,,,,,,,,,,
+75,Tampa Bay Lightning,Brett Scheffelmaier\schefbr01,CA,D,18,1999,,Medicine Hat (WHL),,,,,,,,,,,,,
+76,Los Angeles Kings,Frantisek Kaberle\kaberfr01,CZ,D,25,1999,2009,MoDo Ornskoldsvik (Sweden),523,29,164,193,-19,218,,,,,,,30.2
+77,Calgary Flames,Craig Anderson\andercr01,US,G,18,1999,2022,Guelph (OHL),683,0,19,19,0,54,683,308,264,71,0.912,2.85,125.6
+78,New York Islanders,Mattias Weinhandl\weinhma01,SE,RW,19,1999,2007,Troja (Sweden-3),182,19,37,56,1,70,,,,,,,4.6
+79,New York Rangers,Johan Asplund,SE,G,,1999,,Brynas Gavle (Sweden),,,,,,,,,,,,,
+80,Florida Panthers,Jean-Francois Laniel,CA,G,,1999,,Shawinigan (QMJHL),,,,,,,,,,,,,
+81,Edmonton Oilers,Adam Hauser\hausead01,US,G,19,1999,2006,Minnesota (WCHA),1,0,0,0,0,0,1,0,0,0,0.75,7.08,-0.2
+82,San Jose Sharks,Mark Concannon,US,LW,,1999,,Winchendon (High-MA),,,,,,,,,,,,,
+83,Anaheim Ducks,Niclas Havelid\havelni01,SE,D,26,1999,2009,Malmo (Sweden),628,34,137,171,-31,342,,,,,,,32.9
+84,Carolina Hurricanes,Brad Fast\fastbr01,CA,D,19,1999,2004,Prince George (WHL),1,1,0,1,1,0,,,,,,,0.3
+85,St. Louis Blues,Peter Smrek\smrekpe01,SK,D,20,1999,2002,Des Moines (USHL),28,2,4,6,-5,18,,,,,,,0.6
+86,Pittsburgh Penguins,Sebastien Caron\caronse01,CA,G,19,1999,2012,Rimouski (QMJHL),95,0,1,1,0,12,95,26,48,12,0.892,3.44,11.8
+87,New York Islanders,Brian Collins,US,C,,1999,,St. John's (High-MA),,,,,,,,,,,,,
+88,Tampa Bay Lightning,Jimmie Olvestad\olvesji01,SE,LW,19,1999,2003,Djurgarden (Sweden),111,3,14,17,1,40,,,,,,,0.1
+89,Boston Bruins,Kyle Wanvig\wanviky01,CA,RW,18,1999,2008,Kootenay (WHL),75,6,9,15,-11,94,,,,,,,0.6
+90,New York Rangers,Patrick Aufiero,US,D,,1999,,Boston University (H-East),,,,,,,,,,,,,
+91,Edmonton Oilers,Mike Comrie\comrimi01,CA,C,19,1999,2011,Michigan (CCHA),589,168,197,365,-49,443,,,,,,,38.1
+92,Los Angeles Kings,Cory Campbell,CA,G,,1999,,Belleville (OHL),,,,,,,,,,,,,
+93,Colorado Avalanche,Branko Radivojevic\radivbr01,SK,RW,18,1999,2008,Belleville (OHL),393,52,68,120,-35,252,,,,,,,7.8
+94,Ottawa Senators,Chris Kelly\kellych01,CA,C/LW,18,1999,2018,London (OHL),845,123,168,291,40,417,,,,,,,24.1
+95,New Jersey Devils,Andre Lakos,AT,D,,1999,,Barrie (OHL),,,,,,,,,,,,,
+96,Dallas Stars,Mathias Tjarnqvist\tjarnma01,SE,RW,20,1999,2008,Rogle Angelholm (Sweden),173,13,19,32,-8,60,,,,,,,1
+97,Montreal Canadiens,Chris Dyment,US,D,,1999,,Boston University (H-East),,,,,,,,,,,,,
+98,Atlanta Thrashers,David Kaczowka,CA,LW,,1999,,Seattle (WHL),,,,,,,,,,,,,
+99,Atlanta Thrashers,Rob Zepp\zeppro01,CA,G,18,1999,2015,Plymouth (OHL),10,0,0,0,0,0,10,5,2,0,0.888,2.89,0.6
+100,New Jersey Devils,Teemu Kesa,FI,D,,1999,,Ilves Tampere Jr. (Finland-Jr.),,,,,,,,,,,,,
+101,New York Islanders,Juraj Kolnik\kolniju01,SK,RW,18,1999,2007,Rimouski (QMJHL),240,46,49,95,-13,84,,,,,,,8.5
+102,New York Islanders,Johan Halvardsson,SE,D,,1999,,HV 71 Jonkoping (Sweden),,,,,,,,,,,,,
+103,Florida Panthers,Morgan McCormick,CA,RW,,1999,,Kingston (OHL),,,,,,,,,,,,,
+104,Los Angeles Kings,Brian McGrattan\mcgrabr01,CA,RW,18,1999,2015,Sudbury (OHL),317,10,17,27,-11,609,,,,,,,0.8
+105,Anaheim Ducks,Alexandr Chagodayev,RU,C,,1999,,CSKA Moscow (Russia),,,,,,,,,,,,,
+106,Calgary Flames,Roman Rozakov,RU,D,,1999,,Lada Togliatti 2 (Russia-3),,,,,,,,,,,,,
+107,Montreal Canadiens,Evan Lindsay,CA,G,,1999,,Prince Albert (WHL),,,,,,,,,,,,,
+108,Toronto Maple Leafs,Mirko Murovic,CA,LW,,1999,,Moncton (QMJHL),,,,,,,,,,,,,
+109,Florida Panthers,Rod Sarich,CA,D,,1999,,Calgary (WHL),,,,,,,,,,,,,
+110,Toronto Maple Leafs,Jon Zion,CA,D,,1999,,Ottawa (OHL),,,,,,,,,,,,,
+111,San Jose Sharks,Willie Levesque,US,RW,,1999,,Northeastern (H-East),,,,,,,,,,,,,
+112,Colorado Avalanche,Sanny Lindstrom,SE,D,,1999,,Huddinge (Sweden),,,,,,,,,,,,,
+113,Carolina Hurricanes,Ryan Murphy,US,LW,,1999,,Bowling Green (CCHA),,,,,,,,,,,,,
+114,St. Louis Blues,Chad Starling,CA,D,,1999,,Kamloops (WHL),,,,,,,,,,,,,
+115,Pittsburgh Penguins,Ryan Malone\malonry01,US,LW,19,1999,2015,Omaha (USHL),647,179,191,370,-59,693,,,,,,,36
+116,Phoenix Coyotes,Ryan Lauzon,CA,C,,1999,,Hull (QMJHL),,,,,,,,,,,,,
+117,Buffalo Sabres,Karel Mosovsky,CZ,LW,,1999,,Regina (WHL),,,,,,,,,,,,,
+118,Boston Bruins,Jaakko Harikkala,FI,D,,1999,,Lukko Rauma (Finland),,,,,,,,,,,,,
+119,Philadelphia Flyers,Jeff Feniak,CA,D,,1999,,Calgary (WHL),,,,,,,,,,,,,
+120,Detroit Red Wings,Jari Tolsa,SE,C,,1999,,Vastra Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,
+121,Nashville Predators,Yevgeny Pavlov,RU,RW,,1999,,Lada Togliatti (KHL),,,,,,,,,,,,,
+122,Colorado Avalanche,Kristian Kovac,SK,RW,,1999,,Kosice Jr. (Slovak-Jr.),,,,,,,,,,,,,
+123,Phoenix Coyotes,Preston Mizzi,CA,C,,1999,,Peterborough (OHL),,,,,,,,,,,,,
+124,Nashville Predators,Alexandre Krevsun,RU,RW,,1999,,CSK VVS Samara (Russia-3),,,,,,,,,,,,,
+125,Los Angeles Kings,Daniel Johansson,SE,C,,1999,,MoDo Ornskoldsvik Jr. (Sweden-Jr.),,,,,,,,,,,,,
+126,Dallas Stars,Jeff Bateman,CA,C,,1999,,Brampton (OHL),,,,,,,,,,,,,
+127,Tampa Bay Lightning,Kaspars Astashenko\astaska01,LV,D/W,24,1999,2001,Cincinnati (IHL),23,1,2,3,-6,8,,,,,,,0.2
+128,Atlanta Thrashers,Derek MacKenzie\mackede01,CA,C,18,1999,2019,Sudbury (OHL),611,51,74,125,-7,337,,,,,,,7.6
+129,Vancouver Canucks,Ryan Thorpe,CA,LW,,1999,,Spokane (WHL),,,,,,,,,,,,,
+130,New York Islanders,Justin Mapletoft\mapleju01,CA,C,18,1999,2004,Red Deer (WHL),38,3,6,9,-2,8,,,,,,,0.7
+131,Nashville Predators,Konstantin Panov,RU,LW,,1999,,Kamloops (WHL),,,,,,,,,,,,,
+132,Washington Capitals,Roman Tvrdon\tvrdoro01,SK,C,18,1999,2004,Dukla Trencin Jr. (Slovak-Jr.),9,0,1,1,-3,2,,,,,,,-0.2
+133,Los Angeles Kings,Jean-Francois Nogues,CA,G,,1999,,Victoriaville (QMJHL),,,,,,,,,,,,,
+134,Chicago Blackhawks,Michael Jacobsen,CA,D,,1999,,Belleville (OHL),,,,,,,,,,,,,
+135,Calgary Flames,Matt Doman,US,RW,,1999,,Wisconsin (WCHA),,,,,,,,,,,,,
+136,Montreal Canadiens,Dusty Jamieson,CA,LW,,1999,,Sarnia (OHL),,,,,,,,,,,,,
+137,New York Rangers,Garrett Bembridge\bembrga01,CA,RW,18,1999,,Saskatoon (WHL),,,,,,,,,,,,,
+138,Buffalo Sabres,Ryan Miller\millery01,US,G,19,1999,2021,Soo Indians (NAHL),796,0,12,12,0,48,796,391,289,88,0.914,2.64,151.7
+139,Edmonton Oilers,Jonathan Fauteux,CA,D,,1999,,Val d'Or (QMJHL),,,,,,,,,,,,,
+140,New York Islanders,Adam Johnson,US,D,,1999,,Greenway (High-MN),,,,,,,,,,,,,
+141,Anaheim Ducks,Maxim Rybin,RU,LW,,1999,,Spartak Moscow (KHL),,,,,,,,,,,,,
+142,Colorado Avalanche,Will Magnuson,US,D,,1999,,Lake Superior State (CCHA),,,,,,,,,,,,,
+143,St. Louis Blues,Trevor Byrne,US,D,,1999,,Deerfield Academy (High-MA),,,,,,,,,,,,,
+144,Pittsburgh Penguins,Tomas Skvaridlo,SK,C,,1999,,Zvolen Jr. (Slovak-Jr.),,,,,,,,,,,,,
+145,Montreal Canadiens,Marc-Andre Thinel,CA,RW,,1999,,Victoriaville (QMJHL),,,,,,,,,,,,,
+146,Buffalo Sabres,Matt Kinch,CA,D,,1999,,Calgary (WHL),,,,,,,,,,,,,
+147,Boston Bruins,Seamus Kotyk,CA,G,,1999,,Ottawa (OHL),,,,,,,,,,,,,
+148,Tampa Bay Lightning,Michal Lanicek,CZ,G,,1999,,Slavia Praha Jr. (Czech-Jr.),,,,,,,,,,,,,
+149,Detroit Red Wings,Andrei Maximenko,RU,LW,,1999,,Krylja Sovetov (Russia),,,,,,,,,,,,,
+150,Montreal Canadiens,Matt Shasby,US,D,,1999,,Des Moines (USHL),,,,,,,,,,,,,
+151,Toronto Maple Leafs,Vaclav Zavoral,CZ,D,,1999,,Chemopetrol Litvinov Jr. (Czech),,,,,,,,,,,,,
+152,Colorado Avalanche,Jordan Krestanovich\krestjo01,CA,LW,18,1999,2004,Calgary (WHL),22,0,2,2,1,6,,,,,,,-0.1
+153,Calgary Flames,Jesse Cook,US,D,,1999,,Denver (WCHA),,,,,,,,,,,,,
+154,Ottawa Senators,Andrew Ianiero,CA,LW,,1999,,Kingston (OHL),,,,,,,,,,,,,
+155,San Jose Sharks,Niko Dimitrakos\dimitni01,US,RW,20,1999,2007,U. of Maine (H-East),158,24,38,62,-1,95,,,,,,,5.6
+156,Dallas Stars,Gregor Baumgartner,AT,LW,,1999,,Acadie-Bathurst (QMJHL),,,,,,,,,,,,,
+157,Pittsburgh Penguins,Vladimir Malenkykh,RU,D,,1999,,Lada Togliatti (KHL),,,,,,,,,,,,,
+158,Colorado Avalanche,Anders Lovdahl,SE,C,,1999,,HV 71 Jonkoping Jr. (Sweden-Jr.),,,,,,,,,,,,,
+159,Atlanta Thrashers,Yuri Dobryshkin,RU,RW,,1999,,Krylja Sovetov (Russia),,,,,,,,,,,,,
+160,Philadelphia Flyers,Konstantin Rudenko,KZ,LW,,1999,,Cherepovets 2 (Russia-3),,,,,,,,,,,,,
+161,Toronto Maple Leafs,Jan Sochor,CZ,LW,,1999,,Slavia Praha (Czech-2),,,,,,,,,,,,,
+162,Nashville Predators,Timo Helbling\helblti01,CH,D,18,1999,2007,Davos (Swiss),11,0,1,1,-4,8,,,,,,,-0.1
+163,New York Islanders,Bjorn Melin\melinbj01,SE,RW,18,1999,2007,HV 71 Jonkoping Jr. (Sweden-Jr.),3,1,0,1,-1,0,,,,,,,0.1
+164,Ottawa Senators,Martin Prusek\prusema01,CZ,G,23,1999,2006,Vitkovice (Czech),57,0,1,1,0,0,57,31,12,4,0.909,2.36,7.6
+165,Chicago Blackhawks,Michael Leighton\leighmi01,CA,G,18,1999,2017,Windsor (OHL),110,0,4,4,0,6,110,37,43,14,0.9,2.97,14.5
+166,Calgary Flames,Cory Pecker,CA,C,,1999,,Sault Ste. Marie (OHL),,,,,,,,,,,,,
+167,Montreal Canadiens,Sean Dixon,CA,D,,1999,,Erie (OHL),,,,,,,,,,,,,
+168,Phoenix Coyotes,Erik Lewerstrom,SE,D,,1999,,Grums (Sweden-3),,,,,,,,,,,,,
+169,Florida Panthers,Brad Woods,CA,D,,1999,,Brampton (OHL),,,,,,,,,,,,,
+170,Calgary Flames,Matt Underhill\underma01,CA,G,19,1999,2004,Cornell (ECAC),1,0,0,0,0,0,1,0,1,0,0.879,3.95,0.1
+171,Edmonton Oilers,Chris Legg,CA,C,,1999,,London Jr. B,,,,,,,,,,,,,
+172,Vancouver Canucks,Josh Reed,CA,D,,1999,,Vernon (BCHL),,,,,,,,,,,,,
+173,Anaheim Ducks,Jan Sandstrom,SE,D,,1999,,AIK Solna (Sweden),,,,,,,,,,,,,
+174,Carolina Hurricanes,Damian Surma\surmada01,US,C,18,1999,2004,Plymouth (OHL),2,1,1,2,1,0,,,,,,,0.3
+175,Washington Capitals,Kyle Clark,US,RW,,1999,,Harvard (ECAC),,,,,,,,,,,,,
+176,Pittsburgh Penguins,Doug Meyer,US,LW,,1999,,Minnesota (WCHA),,,,,,,,,,,,,
+177,New York Rangers,Jay Dardis,US,C,,1999,,Proctor (High-NH),,,,,,,,,,,,,
+178,Buffalo Sabres,Seneque Hyacinthe,CA,LW,,1999,,Val d'Or (QMJHL),,,,,,,,,,,,,
+179,Boston Bruins,Donald Choukalos,CA,G,,1999,,Regina (WHL),,,,,,,,,,,,,
+180,St. Louis Blues,Tore Vikingstad,NO,LW,,1999,,Farjestad (Sweden),,,,,,,,,,,,,
+181,Detroit Red Wings,Kent McDonell\mcdonke01,CA,RW,20,1999,2004,Guelph (OHL),32,1,2,3,-8,36,,,,,,,-0.3
+182,Tampa Bay Lightning,Fedor Fedorov\fedorfe01,RU,C,18,1999,2006,Port Huron (IHL),18,0,2,2,0,14,,,,,,,-0.1
+183,Colorado Avalanche,Riku Hahl\hahlri01,FI,C,18,1999,2004,HPK Hameenlinna (Finland),92,5,8,13,-3,38,,,,,,,0
+184,Dallas Stars,Justin Cox,CA,RW,,1999,,Prince George (WHL),,,,,,,,,,,,,
+185,New Jersey Devils,Scott Cameron,CA,C,,1999,,Barrie (OHL),,,,,,,,,,,,,
+186,Dallas Stars,Brett Draney,CA,LW,,1999,,Kamloops (WHL),,,,,,,,,,,,,
+187,Tampa Bay Lightning,Ivan Rachunek,CZ,LW,,1999,,ZPS Zlin Jr. (Czech-Jr.),,,,,,,,,,,,,
+188,Atlanta Thrashers,Stephen Baby,US,RW,,1999,,Green Bay (USHL),,,,,,,,,,,,,
+189,Vancouver Canucks,Kevin Swanson,CA,G,,1999,,Kelowna (WHL),,,,,,,,,,,,,
+190,Calgary Flames,Blair Stayzer,CA,LW,,1999,,Windsor (OHL),,,,,,,,,,,,,
+191,Nashville Predators,Martin Erat\eratma01,CZ,RW,18,1999,2015,ZPS Zlin Jr. (Czech-Jr.),881,176,369,545,-6,506,,,,,,,52.6
+192,Washington Capitals,David Bornhammar,SE,D,,1999,,AIK Solna Jr. (Sweden-2),,,,,,,,,,,,,
+193,Los Angeles Kings,Kevin Baker,CA,RW,,1999,,Belleville (OHL),,,,,,,,,,,,,
+194,Chicago Blackhawks,Mattias Wennerberg,SE,C,,1999,,MoDo Ornskoldsvik Jr. (Sweden-Jr.),,,,,,,,,,,,,
+195,Chicago Blackhawks,Yorick Treille,FR,RW,,1999,,U. Mass-Lowell (H-East),,,,,,,,,,,,,
+196,Montreal Canadiens,Vadim Tarasov,KZ,G,,1999,,Novokuznetsk (KHL),,,,,,,,,,,,,
+197,New York Rangers,Arto Laatikainen,FI,D,,1999,,Espoo (Finland),,,,,,,,,,,,,
+198,Florida Panthers,Travis Eagles,CA,RW,,1999,,Prince George (WHL),,,,,,,,,,,,,
+199,Edmonton Oilers,Christian Chartier,CA,D,,1999,,Saskatoon (WHL),,,,,,,,,,,,,
+200,Philadelphia Flyers,Pavel Kasparik,CZ,C,,1999,,Pisek (Czech-2),,,,,,,,,,,,,
+201,Ottawa Senators,Mikko Ruutu,FI,LW,,1999,,HIFK Helsinki (Finland),,,,,,,,,,,,,
+202,Carolina Hurricanes,Jim Baxter,CA,D,,1999,,Oshawa (OHL),,,,,,,,,,,,,
+203,St. Louis Blues,Phil Osaer,US,G,,1999,,Ferris State (CCHA),,,,,,,,,,,,,
+204,Pittsburgh Penguins,Tom Kostopoulos\kostoto01,CA,RW,20,1999,2013,London (OHL),630,61,96,157,-48,723,,,,,,,7.4
+205,Nashville Predators,Kyle Kettles,CA,G,,1999,,Neepawa,,,,,,,,,,,,,
+206,Buffalo Sabres,Bret DeCecco,CA,RW,,1999,,Seattle (WHL),,,,,,,,,,,,,
+207,Boston Bruins,Greg Barber,CA,RW,,1999,,Victoria (WHL),,,,,,,,,,,,,
+208,Philadelphia Flyers,Vaclav Pletka\pletkva01,CZ,RW,20,1999,2002,Trinec (Czech),1,0,0,0,0,0,,,,,,,0
+209,Ottawa Senators,Layne Ulmer\ulmerla01,CA,C,19,1999,2004,Swift Current (WHL),1,0,0,0,-1,0,,,,,,,-0.1
+210,Detroit Red Wings,Henrik Zetterberg\zettehe01,SE,LW,18,1999,2018,Timra (Sweden-2),1082,337,623,960,160,401,,,,,,,109.3
+211,Toronto Maple Leafs,Vladimir Kulikov,RU,G,,1999,,CSKA Moscow (Russia),,,,,,,,,,,,,
+212,Colorado Avalanche,Radim Vrbata\vrbatra01,CZ,RW,18,1999,2018,Hull (QMJHL),1057,284,339,623,-19,294,,,,,,,69.1
+213,Ottawa Senators,Alexandre Giroux\giroual01,CA,C/LW,18,1999,2012,Hull (QMJHL),48,6,6,12,-2,26,,,,,,,0.8
+214,New Jersey Devils,Chris Hartsburg,US,RW,,1999,,Colorado College (WCHA),,,,,,,,,,,,,
+215,Dallas Stars,Jeff MacMillan\macmije01,CA,D,20,1999,2004,Oshawa (OHL),4,0,0,0,-2,0,,,,,,,-0.1
+216,Tampa Bay Lightning,Erkki Rajamaki,FI,LW,,1999,,HIFK Helsinki (Finland),,,,,,,,,,,,,
+217,Atlanta Thrashers,Garnet Exelby\exelbga01,CA,D,18,1999,2010,Saskatoon (WHL),408,7,43,50,-28,584,,,,,,,8.4
+218,Vancouver Canucks,Markus Kankaanpera,SE,D,,1999,,JyP HT Jyvaskyla (Finland),,,,,,,,,,,,,
+219,Washington Capitals,Maxim Orlov,RU,C,,1999,,CSKA Moscow (Russia),,,,,,,,,,,,,
+220,Nashville Predators,Miroslav Durak,SK,D,,1999,,Bratislava Jr.,,,,,,,,,,,,,
+221,St. Louis Blues,Colin Hemingway\heminco01,CA,RW,19,1999,2006,Surrey (BCHL),3,0,0,0,-2,0,,,,,,,-0.1
+222,Los Angeles Kings,George Parros\parroge01,US,RW,19,1999,2014,Chicago (USHL),474,18,18,36,-11,1092,,,,,,,0.4
+223,Chicago Blackhawks,Andrew Carver,CA,D,,1999,,Hull (QMJHL),,,,,,,,,,,,,
+224,Philadelphia Flyers,David Nystrom,SE,LW,,1999,,Vastra Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,
+225,Montreal Canadiens,Mikko Hyytia,FI,C,,1999,,JYP HT Jyvaskyla Jr. (Finland-Jr.),,,,,,,,,,,,,
+226,New York Rangers,Yevgeny Gusakov,RU,RW,,1999,,Lada Togliatti 2 (Russia-3),,,,,,,,,,,,,
+227,Florida Panthers,Jonathon Charron,CA,G,,1999,,Val d'Or (QMJHL),,,,,,,,,,,,,
+228,New York Islanders,Radek Martinek\martira01,CZ,D,23,1999,2014,Ceske Budejovice (Czech-2),486,25,85,110,-11,280,,,,,,,22.3
+229,San Jose Sharks,Eric Betournay,CA,C,,1999,,Acadie-Bathurst (QMJHL),,,,,,,,,,,,,
+230,Anaheim Ducks,Petr Tenkrat\tenkrpe01,CZ,RW,22,1999,2007,Poldi Kladno (Czech),177,22,30,52,-37,84,,,,,,,2.9
+231,Carolina Hurricanes,David Evans,US,RW,,1999,,Clarkson (ECAC),,,,,,,,,,,,,
+232,St. Louis Blues,Alexander Khavanov\khavaal01,RU,D,27,1999,2006,Dynamo Moscow (Russia),348,27,75,102,15,233,,,,,,,22
+233,Pittsburgh Penguins,Darcy Robinson,CA,D,,1999,,Saskatoon (WHL),,,,,,,,,,,,,
+234,Phoenix Coyotes,Goran Bezina\bezingo01,YU,D,19,1999,2004,Fribourg,3,0,0,0,-1,2,,,,,,,-0.1
+235,Buffalo Sabres,Brad Self,CA,C,,1999,,Peterborough (OHL),,,,,,,,,,,,,
+236,Boston Bruins,John Cronin,US,D,,1999,,Boston University (H-East),,,,,,,,,,,,,
+237,Carolina Hurricanes,Antti Jokela,FI,G,,1999,,Lukko Rauma Jr. (Finland-Jr.),,,,,,,,,,,,,
+238,Detroit Red Wings,Anton Borodkin,RU,LW,,1999,,Kamloops (WHL),,,,,,,,,,,,,
+239,Toronto Maple Leafs,Pierre Hedin\hedinpi01,SE,D,21,1999,2004,MoDo Ornskoldsvik (Sweden),3,0,1,1,-1,0,,,,,,,0.1
+240,Colorado Avalanche,Jeff Finger\fingeje01,US,D,19,1999,2010,Green Bay (USHL),199,17,40,57,4,114,,,,,,,10.7
+241,San Jose Sharks,Douglas Murray\murrado01,SE,D,19,1999,2014,NY Apple Core (EJHL),518,7,57,64,19,412,,,,,,,19.2
+242,New Jersey Devils,Justin Dziama,US,RW,,1999,,Nobles (High-MA),,,,,,,,,,,,,
+243,Dallas Stars,Brian Sullivan,US,D,,1999,,Thayer Academy (High-MA),,,,,,,,,,,,,
+244,Tampa Bay Lightning,Mikko Kuparinen,FI,D,,1999,,Grand Rapids (IHL),,,,,,,,,,,,,
+245,Atlanta Thrashers,Tommi Santala\santato01,FI,C,20,1999,2007,Jokerit Helsinki (KHL),63,2,7,9,-7,46,,,,,,,0
+246,Atlanta Thrashers,Raymond DiLauro,US,D,,1999,,St. Lawrence (ECAC),,,,,,,,,,,,,
+247,Boston Bruins,Mikko Eloranta\elorami01,FI,LW,27,1999,2003,TPS Turku (Finland),264,32,44,76,-24,186,,,,,,,5.4
+248,Nashville Predators,Darren Haydar\haydada01,CA,RW,19,1999,2010,New Hampshire (H-East),23,1,7,8,3,2,,,,,,,0.7
+249,Washington Capitals,Igor Shadilov,RU,D,,1999,,Dynamo Moscow (Russia),,,,,,,,,,,,,
+250,Los Angeles Kings,Noah Clarke\clarkno02,US,LW,20,1999,2008,Des Moines (USHL),21,3,1,4,-5,4,,,,,,,0.2
+251,New York Rangers,Petter Henning,SE,RW,,1999,,MoDo Ornskoldsvik (Sweden),,,,,,,,,,,,,
+252,Calgary Flames,Dmitri Kirilenko,US,C,,1999,,CSKA Moscow (Russia),,,,,,,,,,,,,
+253,Montreal Canadiens,Jerome Marois,CA,LW,,1999,,Quebec (QMJHL),,,,,,,,,,,,,
+254,New York Rangers,Alexei Bulatov,RU,RW,,1999,,Yekaterinburg (Russia-2),,,,,,,,,,,,,
+255,New York Islanders,Brett Henning,US,C,,1999,,Notre Dame (CCHA),,,,,,,,,,,,,
+256,Edmonton Oilers,Tamas Groschl,HU,RW,,1999,,UTE Budapest,,,,,,,,,,,,,
+257,San Jose Sharks,Hannes Hyvonen\hyvonha01,FI,RW,24,1999,2003,Espoo (Finland),42,4,5,9,-13,22,,,,,,,0.2
+258,Anaheim Ducks,Brian Gornick,US,C,,1999,,Air Force (CHA),,,,,,,,,,,,,
+259,Carolina Hurricanes,Yevgeny Kurilin,BY,C,,1999,,Alaska-Anchorage (WCHA),,,,,,,,,,,,,
+260,St. Louis Blues,Brian McMeekin,CA,D,,1999,,Cornell (ECAC),,,,,,,,,,,,,
+261,Pittsburgh Penguins,Andrew McPherson,CA,LW,,1999,,RPI (ECAC),,,,,,,,,,,,,
+262,Phoenix Coyotes,Alexei Litvinenko,KZ,D,,1999,,Torpedo Ust-Kamenogorsk (Russia-2),,,,,,,,,,,,,
+263,Buffalo Sabres,Craig Brunel,CA,RW,,1999,,Prince Albert (WHL),,,,,,,,,,,,,
+264,Boston Bruins,Georgy Pujacs,RU,D,,1999,,Dynamo-81 Riga,,,,,,,,,,,,,
+265,Dallas Stars,Jamie Chamberlain,CA,RW,,1999,,Peterborough (OHL),,,,,,,,,,,,,
+266,Detroit Red Wings,Ken Davis,CA,RW,,1999,,Portland (WHL),,,,,,,,,,,,,
+267,Toronto Maple Leafs,Peter Metcalf,US,D,,1999,,U. of Maine (H-East),,,,,,,,,,,,,
+268,New York Islanders,Tyler Scott,US,D,,1999,,Upper Canada College,,,,,,,,,,,,,
+269,Ottawa Senators,Konstantin Gorovikov,RU,LW,,1999,,St. Petersburg (KHL),,,,,,,,,,,,,
+270,St. Louis Blues,James Desmarais,CA,C,,1999,,Rouyn Noranda (QMJHL),,,,,,,,,,,,,
+271,Vancouver Canucks,Darrell Hay,CA,D,,1999,,Tri-City (WHL),,,,,,,,,,,,,
+272,Dallas Stars,Mikhail Donika,RU,D,,1999,,Torpedo Yaroslavl (KHL),,,,,,,,,,,,,

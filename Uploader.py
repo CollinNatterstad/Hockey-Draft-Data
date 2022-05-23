@@ -12,21 +12,24 @@ def main():
         DB_USER_PASS = os.getenv("DB_USER_PASS")
         DB_PORT = os.getenv("DB_PORT")
         
-        draftyearpathway = os.listdir(r'D:\Coding Projects\Hockey Stats\DraftYear.csv')        
-        for files in draftyearpathway:
-            #Connection to postgres database.
-            
+        draftyearfiles = os.listdir(r'D:\Coding Projects\Hockey Stats\DraftYear.csv')        
+        
+        for files in draftyearfiles:
+            #Connection to postgres database. secrets stored in .env file. 
             conn = pg.connect(database = DB_NAME, user= DB_USER, password= DB_USER_PASS, host= DB_HOST, port= DB_PORT)
-            copypath= open(r'D:\Coding Projects\Hockey Stats\DraftYear.csv\\'+ files)
+            copypath= r'D:\Coding Projects\Hockey Stats\DraftYear.csv\\'+ files
         
             #creating cursor to interact with the database.
             cur=conn.cursor()
             #confirming the creation of the cursor
             print('\ncreated curser object:', cur)
             #selects and copies the appropriate .csv file into the Hockey Draft Database
-            cur.copy_from(copypath,'bighockeydata')
-            
-            #Commits changes
+            with open (copypath,'r') as f:
+                #skips header row. 
+                next(f)
+                #uploads data from, to, breaking up 
+                cur.copy_from(f,'bighockeydata',',')
+            #Commits changes1
             conn.commit()
             
             #Closes the cursor object
