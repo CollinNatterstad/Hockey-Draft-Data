@@ -27,7 +27,7 @@ def main():
             with open (copypath,'r') as f:
                 #skips header row. 
                 next(f)
-                #uploads data from, to, breaking up 
+                #uploads data format is from[], to, and 
                 cur.copy_from(f,'bighockeydata',',')
             #Commits changes1
             conn.commit()
