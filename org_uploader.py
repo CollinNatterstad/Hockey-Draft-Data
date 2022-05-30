@@ -13,12 +13,15 @@ def team_loader():
     #The team codes are ultimately irrelevant so I created them here. They were written  in asc order. Lazy way but ultimately I'm more concerned with the names than 
     #Keys for analytics. 
     #They will be matched to their corresponding team with the dict(zip()) function.
-    
+
     #named lists here
+    #self create team codes
     team_codes = ["ANA", "ARI", "ATL", "BOS", "BUF", "CAL", "CAR", "CHI", "COL", "CBJ", "DAL", "DET"
     , "EDM", "FLO", "HAR", "LOS", "MNS", "MIN","MON","NAS", "NEW", "NYI", "NYR", "OTT", "PHI", "PHO"
     , "PIT", "QUE", "SAN", "SEA", "STL", "TAM","TOR", "VAN", "VEG", "WAS", "WIN"]
+    #stores initially converted string
     team_storage = []
+    #stores converted string
     team_names = []
 
     #connects to .env file and supplies appropriate credentials. 
