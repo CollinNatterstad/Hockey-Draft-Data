@@ -1,4 +1,4 @@
-def main():  
+def main():  # you should have the import statements outside of a method defininition, you actually dont need this main() method at all in any files
     import os
     import psycopg2 as pg
     from dotenv import load_dotenv
@@ -11,18 +11,18 @@ def main():
         DB_USER = os.getenv("DB_USER")
         DB_USER_PASS = os.getenv("DB_USER_PASS")
         DB_PORT = os.getenv("DB_PORT")
-        
-        draftyearfiles = os.listdir(r'D:\Coding Projects\Hockey Stats\DraftYear.csv')        
+        #for naming use either snake_case or camelCase using nocasewhatsoever is hard to read
+        draftyearfiles = os.listdir(r'D:\Coding Projects\Hockey Stats\DraftYear.csv')  #this path is hard coded around in diff files, think about how you could use a variable instead and only write the path once.       
         
         for files in draftyearfiles:
             #Connection to postgres database. secrets stored in .env file. 
-            conn = pg.connect(database = DB_NAME, user= DB_USER, password= DB_USER_PASS, host= DB_HOST, port= DB_PORT)
+            conn = pg.connect(database = DB_NAME, user= DB_USER, password= DB_USER_PASS, host= DB_HOST, port= DB_PORT) #good use of envars here
             copypath= r'D:\Coding Projects\Hockey Stats\DraftYear.csv\\'+ files
         
             #creating cursor to interact with the database.
             cur=conn.cursor()
             #confirming the creation of the cursor
-            print('\ncreated curser object:', cur)
+            print('\ncreated curser object:', cur) #*cursor
             #selects and copies the appropriate .csv file into the Hockey Draft Database
             with open (copypath,'r') as f:
                 #skips header row. 
@@ -38,4 +38,4 @@ def main():
 
     connect_and_store()
 if __name__ == "__main__":
-    main()
+    main() #instead of main you can just call your function connect_and_store()
