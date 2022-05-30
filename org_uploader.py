@@ -3,8 +3,6 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-
-
 def team_loader():
     db_host = os.getenv("DB_HOST")
     db_name = os.getenv("DB_NAME")
