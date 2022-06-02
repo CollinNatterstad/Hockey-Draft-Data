@@ -1,212 +1,212 @@
-Overall,Team,Player,Nat.,Pos,Age,Start,End,Amateur Team,GP,G,A,PTS,+/-,PIM,GP,W,L,T/O,SV%,GAA,PS
-1,Edmonton Oilers,Connor McDavid\mcdavco01,CA,C,18,2015,2022,Erie (OHL),487,239,458,697,92,183,,,,,,,82.4
-2,Buffalo Sabres,Jack Eichel\eicheja01,US,C,18,2015,2022,Boston University (H-East),409,153,227,380,-66,152,,,,,,,41.1
-3,Arizona Coyotes,Dylan Strome\stromdy01,CA,C,18,2015,2022,Erie (OHL),273,67,103,170,-30,86,,,,,,,15.3
-4,Toronto Maple Leafs,Mitchell Marner\marnemi01,CA,C,18,2015,2022,London (OHL),427,138,317,455,71,138,,,,,,,47.5
-5,Carolina Hurricanes,Noah Hanifin\hanifno01,US,D,18,2015,2022,Boston College (H-East),517,42,159,201,-22,130,,,,,,,32.8
-6,New Jersey Devils,Pavel Zacha\zachapa01,CZ,C,18,2015,2022,Sarnia (OHL),386,69,110,179,-66,110,,,,,,,13.7
-7,Philadelphia Flyers,Ivan Provorov\provoiv01,RU,D,18,2015,2022,Brandon (WHL),450,59,131,190,-11,172,,,,,,,34.2
-8,Columbus Blue Jackets,Zach Werenski\werenza01,US,D,18,2015,2022,Michigan (Big Ten),403,76,161,237,-2,93,,,,,,,41
-9,San Jose Sharks,Timo Meier\meierti01,CH,RW,18,2015,2022,Halifax (QMJHL),394,123,141,264,-20,234,,,,,,,27.8
-10,Colorado Avalanche,Mikko Rantanen\rantami01,FI,RW,18,2015,2022,TPS (Finland),408,165,243,408,44,216,,,,,,,46.2
-11,Florida Panthers,Lawson Crouse\crousla01,CA,LW,18,2015,2022,Kingston (OHL),346,56,54,110,-40,253,,,,,,,8.2
-12,Dallas Stars,Denis Gurianov\guriade01,RU,RW,18,2015,2022,Togliatti 2 (Russia-Jr.),214,44,50,94,3,50,,,,,,,9.6
-13,Boston Bruins,Jakub Zboril\zborija01,CZ,D,18,2015,2022,Saint John (QMJHL),54,0,12,12,1,22,,,,,,,2.3
-14,Boston Bruins,Jake Debrusk\debruja01,CA,LW,18,2015,2022,Swift Current (WHL),321,92,84,176,21,67,,,,,,,19.9
-15,Boston Bruins,Zachary Senyshyn\senysza01,CA,RW,18,2015,2022,Sault Ste. Marie (OHL),16,1,2,3,-1,4,,,,,,,0.1
-16,New York Islanders,Mathew Barzal\barzama01,CA,C,18,2015,2022,Seattle (WHL),362,91,220,311,-1,192,,,,,,,30.1
-17,Winnipeg Jets,Kyle Connor\connoky01,US,LW,18,2015,2022,Youngstown (USHL),384,178,166,344,-9,88,,,,,,,39.1
-18,Ottawa Senators,Thomas Chabot\chaboth01,CA,D,18,2015,2022,Saint John (QMJHL),313,42,146,188,-62,150,,,,,,,25.5
-19,Detroit Red Wings,Evgeny Svechnikov\svechev01,RU,LW,18,2015,2022,Cape Breton (QMJHL),113,12,19,31,-10,58,,,,,,,2
-20,Minnesota Wild,Joel Eriksson Ek\eriksjo02,SE,C,18,2015,2022,Farjestad (Sweden),343,69,76,145,35,116,,,,,,,13.3
-21,Ottawa Senators,Colin White\whiteco02,US,C,18,2015,2022,USA U-18 (USHL),224,36,62,98,-52,91,,,,,,,5.9
-22,Washington Capitals,Ilya Samsonov\samsoil01,RU,G,18,2015,2022,Magnitogorsk 2 (Russia-Jr.),89,0,1,1,0,2,89,52,22,8,0.902,2.81,11.7
-23,Vancouver Canucks,Brock Boeser\boesebr01,US,RW,18,2015,2022,Waterloo (USHL),324,121,135,256,-11,88,,,,,,,28.7
-24,Philadelphia Flyers,Travis Konecny\konectr01,CA,C,18,2015,2022,Ottawa (OHL),428,110,161,271,-18,266,,,,,,,26.7
-25,Winnipeg Jets,Jack Roslovic\rosloja01,US,C,18,2015,2022,USA U-18 (USHL),309,60,86,146,-3,44,,,,,,,13.3
-26,Montreal Canadiens,Noah Juulsen\juulsno01,CA,D,18,2015,2022,Everett (WHL),56,2,8,10,-1,10,,,,,,,2
-27,Anaheim Ducks,Jacob Larsson\larssja01,SE,D,18,2015,2022,Frolunda Jr. (Sweden-Jr.),165,3,21,24,-26,46,,,,,,,4.1
-28,New York Islanders,Anthony Beauvillier\beauvan01,CA,LW,18,2015,2022,Shawinigan (QMJHL),408,93,96,189,-2,73,,,,,,,18.8
-29,Columbus Blue Jackets,Gabriel Carlsson\carlsga01,SE,D,18,2015,2022,Linkoping Jr. (Sweden-Jr.),75,3,13,16,-4,22,,,,,,,2.4
-30,Arizona Coyotes,Nicholas Merkley\merklni01,CA,RW,18,2015,2022,Kelowna (WHL),41,4,11,15,-7,11,,,,,,,0.9
-31,San Jose Sharks,Jeremy Roy\royje02,CA,D,18,2015,,Sherbrooke (QMJHL),,,,,,,,,,,,,
-32,Arizona Coyotes,Christian Fischer\fischch01,US,RW,18,2015,2022,USA U-18 (USHL),318,43,41,84,-53,77,,,,,,,5.2
-33,Tampa Bay Lightning,Mitchell Stephens\stephmi01,CA,C,18,2015,2022,Saginaw (OHL),72,3,10,13,-22,18,,,,,,,-0.6
-34,Toronto Maple Leafs,Travis Dermott\dermotr01,CA,D,18,2015,2022,Erie (OHL),268,13,41,54,33,100,,,,,,,11.1
-35,Carolina Hurricanes,Sebastian Aho\ahose01,FI,RW,18,2015,2022,Karpat (Finland),445,182,219,401,72,172,,,,,,,48.6
-36,Ottawa Senators,Gabriel Gagne\gagnega01,CA,RW,18,2015,,Victoriaville (QMJHL),,,,,,,,,,,,,
-37,Boston Bruins,Brandon Carlo\carlobr01,US,D,18,2015,2022,Tri-City (WHL),403,21,49,70,60,227,,,,,,,22.3
-38,Columbus Blue Jackets,Paul Bittner\bittnpa01,US,LW,18,2015,,Portland (WHL),,,,,,,,,,,,,
-39,Colorado Avalanche,A.J. Greer\greeraj01,CA,LW,18,2015,2022,Boston University (H-East),47,2,6,8,-2,56,,,,,,,0.3
-40,Colorado Avalanche,Nicolas Meloche\melocni01,CA,D,18,2015,2022,Baie Comeau (QMJHL),57,2,6,8,-16,39,,,,,,,1.3
-41,New York Rangers,Ryan Gropp\groppry01,CA,LW,18,2015,,Seattle (WHL),,,,,,,,,,,,,
-42,New Jersey Devils,Mackenzie Blackwood\blackma01,CA,G,18,2015,2022,Barrie (OHL),130,0,1,1,0,0,130,55,51,16,0.907,2.94,21.8
-43,Los Angeles Kings,Erik Cernak\cernaer01,SK,D,18,2015,2022,Kosice (Slovakia),226,16,43,59,51,201,,,,,,,14.1
-44,Tampa Bay Lightning,Matthew Spencer\spencma01,CA,D,18,2015,,Peterborough (OHL),,,,,,,,,,,,,
-45,Boston Bruins,Jakob Forsbacka Karlsson\forsbja01,SE,C,18,2015,2019,Omaha (USHL),29,3,6,9,1,2,,,,,,,0.7
-46,Pittsburgh Penguins,Daniel Sprong\spronda01,NL,RW,18,2015,2022,Charlottetown (QMJHL),202,46,24,70,-10,30,,,,,,,7.4
-47,Winnipeg Jets,Jansen Harkins\harkija01,US,C,18,2015,2022,Prince George (WHL),132,10,12,22,-12,24,,,,,,,0.6
-48,Ottawa Senators,Filip Chlapik\chlapfi01,CZ,C,18,2015,2021,Charlottetown (QMJHL),57,5,6,11,-13,18,,,,,,,0.2
-49,Dallas Stars,Roope Hintz\hintzro01,FI,LW,18,2015,2022,Ilves (Finland),239,80,90,170,20,72,,,,,,,19.9
-50,Minnesota Wild,Jordan Greenway\greenjo02,US,LW,18,2015,2022,USA U-18 (USHL),272,36,76,112,21,201,,,,,,,8.8
-51,Buffalo Sabres,Brendan Guhle\guhlebr01,CA,D,18,2015,2022,Prince Albert (WHL),65,4,10,14,-9,24,,,,,,,2.5
-52,Boston Bruins,Jeremy Lauzon\lauzoje01,CA,D,18,2015,2022,Rouyn-Noranda (QMJHL),142,5,13,18,6,152,,,,,,,5.4
-53,Calgary Flames,Rasmus Andersson\anderra01,SE,D,18,2015,2022,Barrie (OHL),298,16,96,112,29,146,,,,,,,19.5
-54,Chicago Blackhawks,Graham Knott\knottgr01,CA,LW,18,2015,,Niagara (OHL),,,,,,,,,,,,,
-55,Nashville Predators,Yakov Trenin\treniya01,RU,C,18,2015,2022,Gatineau (QMJHL),146,24,17,41,12,77,,,,,,,3.7
-56,St. Louis Blues,Vince Dunn\dunnvi02,CA,D,18,2015,2022,Niagara (OHL),340,39,98,137,1,173,,,,,,,23.7
-57,Washington Capitals,Jonas Siegenthaler\siegejo01,CH,D,18,2015,2022,Zurich (Swiss),175,3,24,27,3,99,,,,,,,5.2
-58,Columbus Blue Jackets,Kevin Stenlund\stenlke01,SE,C,18,2015,2022,HV 71 Jr. (Sweden-Jr.),71,11,9,20,-2,22,,,,,,,1.7
-59,Anaheim Ducks,Julius Nattinen\nattiju01,FI,C,18,2015,,JYP 2 (Finland-2),,,,,,,,,,,,,
-60,Calgary Flames,Oliver Kylington\kylinol01,SE,D,18,2015,2022,Farjestad (Sweden),168,14,33,47,30,40,,,,,,,10
-61,Toronto Maple Leafs,Jeremy Bracco\braccje01,US,RW,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,
-62,New York Rangers,Robin Kovacs\kovacro01,SE,RW,18,2015,,AIK (Sweden-2),,,,,,,,,,,,,
-63,Arizona Coyotes,Kyle Capobianco\capobky01,CA,D,18,2015,2022,Sudbury (OHL),59,3,7,10,-18,42,,,,,,,1
-64,Tampa Bay Lightning,Dennis Yan\yande01,US,LW,18,2015,,Shawinigan (QMJHL),,,,,,,,,,,,,
-65,Toronto Maple Leafs,Andrew Nielsen\nielsan01,CA,D,18,2015,,Lethbridge (WHL),,,,,,,,,,,,,
-66,Vancouver Canucks,Guillaume Brisebois\brisegu01,CA,D,18,2015,2022,Acadie-Bathurst (QMJHL),10,0,0,0,-5,0,,,,,,,-0.3
-67,New Jersey Devils,Blake Speers\speerbl01,CA,C,18,2015,2022,Sault Ste. Marie (OHL),5,0,0,0,-3,2,,,,,,,-0.2
-68,Toronto Maple Leafs,Martins Dzierkals\dzierma01,LV,LW,18,2015,,Riga 2 (Russia-Jr.),,,,,,,,,,,,,
-69,Columbus Blue Jackets,Keegan Kolesar\koleske01,CA,RW,18,2015,2022,Seattle (WHL),122,10,27,37,-10,98,,,,,,,1.9
-70,Philadelphia Flyers,Felix Sandstrom\sandsfe01,SE,G,18,2015,2022,Brynas Jr. (Sweden-Jr.),5,0,0,0,0,0,5,0,4,1,0.91,3.23,1
-71,Colorado Avalanche,Jean-Christophe Beaudin\beaudje01,CA,C,18,2015,2020,Rouyn-Noranda (QMJHL),22,0,1,1,-4,7,,,,,,,-0.4
-72,Tampa Bay Lightning,Anthony Cirelli\cirelan01,CA,C,18,2015,2022,Oshawa (OHL),294,66,93,159,79,150,,,,,,,16.3
-73,Detroit Red Wings,Vili Saarijarvi\saarivi01,FI,D,18,2015,,Green Bay (USHL),,,,,,,,,,,,,
-74,Los Angeles Kings,Alexander Dergachyov\dergaal01,RU,C,18,2015,,SKA St. Petersburg 2 (Russia-Jr.),,,,,,,,,,,,,
-75,Boston Bruins,Daniel Vladar\vladada01,CZ,G,18,2015,2022,Kladno (Czech-2),28,0,1,1,0,0,28,15,8,3,0.902,2.88,3.8
-76,Arizona Coyotes,Adin Hill\hillad01,CA,G,19,2015,2022,Portland (WHL),74,0,2,2,0,2,74,29,32,5,0.908,2.74,11.1
-77,Florida Panthers,Sam Montembeault\montesa01,CA,G,18,2015,2022,Blainville-Boisbriand (QMJHL),63,0,1,1,0,0,63,17,26,9,0.892,3.54,6.8
-78,Winnipeg Jets,Erik Foley\foleyer01,US,LW,18,2015,,Cedar Rapids (USHL),,,,,,,,,,,,,
-79,New York Rangers,Sergey Zborovskiy\zborose01,RU,D,18,2015,,Regina (WHL),,,,,,,,,,,,,
-80,Anaheim Ducks,Brent Gates\gatesbr01,US,C,18,2015,,Green Bay (USHL),,,,,,,,,,,,,
-81,Arizona Coyotes,Brendan Warren\warrebr01,US,LW,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,
-82,New York Islanders,Mitchell Vande Sompel\vandemi01,CA,D,18,2015,,Oshawa (OHL),,,,,,,,,,,,,
-83,Arizona Coyotes,Jens Looke\lookeje01,SE,RW,18,2015,,Brynas (Sweden),,,,,,,,,,,,,
-84,Anaheim Ducks,Deven Sideroff\siderde01,CA,RW,18,2015,,Kamloops (WHL),,,,,,,,,,,,,
-85,Nashville Predators,Thomas Novak\novakth01,US,C,18,2015,2022,Waterloo (USHL),27,1,6,7,-4,2,,,,,,,0.1
-86,San Jose Sharks,Mike Robinson\robinmi01,US,G,18,2015,,Lawrence Academy (High-MA),,,,,,,,,,,,,
-87,Montreal Canadiens,Lukas Vejdemo\vejdelu01,SE,C,19,2015,2022,Djurgarden Jr. (Sweden-Jr.),13,2,0,2,-3,0,,,,,,,0.1
-88,Florida Panthers,Thomas Schemitsch\schemth01,CA,D,18,2015,,Owen Sound (OHL),,,,,,,,,,,,,
-89,New York Rangers,Aleksi Saarela\saareal01,FI,C,18,2015,2020,Assat (Finland),9,2,2,4,2,0,,,,,,,0.5
-90,Philadelphia Flyers,Matej Tomek\tomekma01,SK,G,18,2015,,Topeka (NAHL),,,,,,,,,,,,,
-91,Chicago Blackhawks,Dennis Gilbert\gilbede01,US,D,18,2015,2021,Chicago (USHL),25,1,2,3,-8,45,,,,,,,0
-92,Buffalo Sabres,William Borgen\borgewi01,US,D,18,2015,2022,Moorhead (High-MN),50,2,6,8,-8,32,,,,,,,1.2
-93,Carolina Hurricanes,Callum Booth\boothca01,CA,G,18,2015,,Quebec (QMJHL),,,,,,,,,,,,,
-94,St. Louis Blues,Adam Musil\musilad01,CA,C,18,2015,,Red Deer (WHL),,,,,,,,,,,,,
-95,Toronto Maple Leafs,Jesper Lindgren\lindgje01,SE,D,18,2015,,Modo Jr. (Sweden-Jr.),,,,,,,,,,,,,
-96,Carolina Hurricanes,Nicolas Roy\royni01,CA,C,18,2015,2022,Chicoutimi (QMJHL),163,26,38,64,23,75,,,,,,,5.9
-97,New Jersey Devils,Colton White\whiteco03,CA,D,18,2015,2022,Sault Ste. Marie (OHL),38,0,4,4,-3,14,,,,,,,0.7
-98,Philadelphia Flyers,Samuel Dove-McFalls\dovemsa01,CA,LW,18,2015,,Saint John (QMJHL),,,,,,,,,,,,,
-99,Los Angeles Kings,Austin Wagner\wagneau01,CA,LW,18,2015,2021,Regina (WHL),171,22,18,40,-17,70,,,,,,,3.2
-100,Nashville Predators,Anthony Richard\richaan01,CA,C,18,2015,2020,Val d'Or (QMJHL),2,0,0,0,-2,0,,,,,,,-0.1
-101,Colorado Avalanche,Andrei Mironov\mironan01,RU,D,21,2015,2018,Dynamo Moscow (Russia),10,1,2,3,2,12,,,,,,,0.7
-102,Florida Panthers,Denis Malgin\malgide01,CH,C,18,2015,2020,Zurich (Swiss),192,28,32,60,-20,42,,,,,,,4.3
-103,Dallas Stars,Chris Martenet\martech01,US,D,18,2015,,London (OHL),,,,,,,,,,,,,
-104,Philadelphia Flyers,Mikhail Vorobyev\vorobmi01,RU,C,18,2015,2020,Ufa 2 (Russia-Jr.),35,2,3,5,-5,8,,,,,,,-0.1
-105,Boston Bruins,Jesse Gabrielle\gabrije01,CA,LW,18,2015,,Regina (WHL),,,,,,,,,,,,,
-106,San Jose Sharks,Adam Helewka\helewad01,CA,LW,20,2015,,Spokane (WHL),,,,,,,,,,,,,
-107,Ottawa Senators,Christian Wolanin\wolanch01,CA,D,20,2015,2022,Muskegon (USHL),70,6,14,20,-7,16,,,,,,,3.1
-108,Winnipeg Jets,Michael Spacek\spacemi01,CZ,RW,18,2015,,Pardubice (Czech),,,,,,,,,,,,,
-109,Ottawa Senators,Filip Ahl\ahlfi01,SE,LW,18,2015,,HV 71 Jr. (Sweden-Jr.),,,,,,,,,,,,,
-110,Detroit Red Wings,Joren Van Pottelberghe\vanpojo01,CH,G,18,2015,,Linkoping U18 (Sweden-Jr.),,,,,,,,,,,,,
-111,Minnesota Wild,Ales Stezka\stezkal01,CZ,G,18,2015,,Liberec Jr. (Czech-Jr.),,,,,,,,,,,,,
-112,New York Islanders,Parker Wotherspoon\wothepa01,CA,D,18,2015,,Tri-City (WHL),,,,,,,,,,,,,
-113,New York Rangers,Brad Morrison\morribr03,CA,C,18,2015,,Prince George (WHL),,,,,,,,,,,,,
-114,Vancouver Canucks,Dmitry Zhukenov\zhukedm01,RU,C,18,2015,,Omsk 2 (Russia-Jr.),,,,,,,,,,,,,
-115,Nashville Predators,Alexandre Carrier\carrial01,CA,D,18,2015,2022,Gatineau (QMJHL),101,4,29,33,32,60,,,,,,,7.7
-116,St. Louis Blues,Glenn Gawdin\gawdigl01,CA,C,18,2015,2022,Swift Current (WHL),9,0,1,1,-1,2,,,,,,,0
-117,Edmonton Oilers,Caleb Jones\jonesca01,US,D,18,2015,2022,USA U-18 (USHL),144,10,24,34,-20,40,,,,,,,5.4
-118,Tampa Bay Lightning,Jonne Tammela\tammejo01,FI,RW,18,2015,,Kalpa (Finland),,,,,,,,,,,,,
-119,New York Rangers,Daniel Bernhardt\bernhda01,SE,RW,19,2015,,Djurgarden Jr. (Sweden-Jr.),,,,,,,,,,,,,
-120,Tampa Bay Lightning,Mathieu Joseph\josepma01,CA,RW,18,2015,2022,Saint John (QMJHL),232,41,41,82,18,81,,,,,,,7.9
-121,Chicago Blackhawks,Ryan Shea\sheary01,US,D,18,2015,,Boston College H.S. (High-MA),,,,,,,,,,,,,
-122,Buffalo Sabres,Devante Stephens\stephde01,CA,D,18,2015,,Kelowna (WHL),,,,,,,,,,,,,
-123,Arizona Coyotes,Conor Garland\garlaco01,US,RW,19,2015,2022,Moncton (QMJHL),241,66,82,148,17,94,,,,,,,16.8
-124,Edmonton Oilers,Ethan Bear\bearet01,CA,D,18,2015,2022,Seattle (WHL),190,13,34,47,-15,77,,,,,,,8.5
-125,Toronto Maple Leafs,Dmytro Timashov\timasdm01,UA,LW,18,2015,2021,Quebec (QMJHL),45,4,5,9,-1,16,,,,,,,0.6
-126,Carolina Hurricanes,Luke Stevens\stevelu01,US,LW,18,2015,,Noble & Greenough (High-MA),,,,,,,,,,,,,
-127,St. Louis Blues,Niko Mikkola\mikkoni01,FI,D,19,2015,2022,Kalpa Jr. (Finland-Jr.),89,4,13,17,-14,66,,,,,,,1.9
-128,Philadelphia Flyers,David Kase\kaseda01,CZ,RW,18,2015,2021,Chomutov (Czech-2),7,1,0,1,1,0,,,,,,,0.1
-129,Columbus Blue Jackets,Sam Ruopp\ruoppsa01,CA,D,19,2015,,Prince George (WHL),,,,,,,,,,,,,
-130,San Jose Sharks,Karlis Cukste\cukstka01,LV,D,18,2015,,Riga 2 (Russia-Jr.),,,,,,,,,,,,,
-131,Montreal Canadiens,Matthew Bradley\bradlma02,CA,C,18,2015,,Medicine Hat (WHL),,,,,,,,,,,,,
-132,Florida Panthers,Karch Bachman\bachmka01,US,LW,18,2015,,Culver Academy (High-IN),,,,,,,,,,,,,
-133,Dallas Stars,Joseph Cecconi\ceccojo01,US,D,18,2015,,Muskegon (USHL),,,,,,,,,,,,,
-134,Los Angeles Kings,Matt Schmalz\schmama01,CA,RW,19,2015,,Sudbury (OHL),,,,,,,,,,,,,
-135,Minnesota Wild,Kirill Kaprizov\kapriki01,RU,LW,18,2015,2022,Novokuznetsk (Russia),136,74,85,159,37,50,,,,,,,19.3
-136,Calgary Flames,Pavel Karnaukhov\karnapa01,BY,LW,18,2015,,Calgary (WHL),,,,,,,,,,,,,
-137,Pittsburgh Penguins,Dominik Simon\simondo01,CZ,C,21,2015,2022,Plzen (Czech),256,22,55,77,0,80,,,,,,,4.7
-138,Carolina Hurricanes,Spencer Smallman\smallsp01,CA,RW,19,2015,,Saint John (QMJHL),,,,,,,,,,,,,
-139,Ottawa Senators,Christian Jaros\jarosch01,SK,D,19,2015,2022,Lulea Jr. (Sweden-Jr.),94,1,13,14,-24,37,,,,,,,0.8
-140,Detroit Red Wings,Chase Pearson\pearsch01,CA,C,18,2015,2022,Youngstown (USHL),3,0,0,0,0,0,,,,,,,0
-141,Columbus Blue Jackets,Veeti Vainio\vainive01,FI,D,18,2015,,Blues Jr. (Finland-Jr.),,,,,,,,,,,,,
-142,San Jose Sharks,Rudolfs Balcers\balceru01,LV,LW,18,2015,2022,Stavanger (Norway),153,25,32,57,-18,46,,,,,,,4.3
-143,Washington Capitals,Connor Hobbs\hobbsco01,CA,D,18,2015,,Regina (WHL),,,,,,,,,,,,,
-144,Vancouver Canucks,Carl Neill\neillca01,CA,D,19,2015,,Sherbrooke (QMJHL),,,,,,,,,,,,,
-145,Nashville Predators,Karel Vejmelka\vejmeka01,CZ,G,19,2015,2022,Pardubice Jr. (Czech-Jr.),52,0,0,0,0,0,52,13,32,3,0.898,3.68,7.6
-146,St. Louis Blues,Luke Opilka\opilklu01,US,G,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,
-147,New York Islanders,Ryan Pilon\pilonry01,CA,D,18,2015,,Brandon (WHL),,,,,,,,,,,,,
-148,Anaheim Ducks,Troy Terry\terrytr01,US,C RW,18,2015,2022,USA U-18 (USHL),204,52,63,115,-9,52,,,,,,,11.4
-149,Vancouver Canucks,Adam Gaudette\gaudead01,US,C,18,2015,2022,Cedar Rapids (USHL),218,27,43,70,-37,84,,,,,,,4.4
-150,Tampa Bay Lightning,Ryan Zuhlsdorf\zuhlsry01,US,D,18,2015,,Sioux City (USHL),,,,,,,,,,,,,
-151,Chicago Blackhawks,Radovan Bondra\bondrra01,SK,RW,18,2015,,Kosice (Slovakia),,,,,,,,,,,,,
-152,Buffalo Sabres,Giorgio Estephan\estepgi01,CA,C,18,2015,,Lethbridge (WHL),,,,,,,,,,,,,
-153,Tampa Bay Lightning,Kristian Oldham\oldhakr01,US,G,18,2015,,Omaha (USHL),,,,,,,,,,,,,
-154,Edmonton Oilers,John Marino\marinjo01,US,D,18,2015,2022,South Shore (USPHL),189,10,54,64,23,51,,,,,,,11.9
-155,Toronto Maple Leafs,Stephen Desrocher\desrost01,CA,D,19,2015,,Oshawa (OHL),,,,,,,,,,,,,
-156,Carolina Hurricanes,Jake Massie\massija01,CA,D,18,2015,,Kimball Union (High-NH),,,,,,,,,,,,,
-157,New Jersey Devils,Brett Seney\seneybr01,CA,LW,19,2015,2022,Merrimack (H-East),55,5,8,13,-15,31,,,,,,,0.5
-158,Philadelphia Flyers,Cooper Marody\marodco01,US,C,18,2015,2022,Sioux Falls (USHL),7,0,1,1,-1,0,,,,,,,0
-159,Columbus Blue Jackets,Vladislav Gavrikov\gavrivl01,RU,D,19,2015,2022,Yaroslavl (Russia),204,12,51,63,-15,100,,,,,,,10.7
-160,San Jose Sharks,Adam Parsells\parsead01,US,D,18,2015,,Wausau West (High-WI),,,,,,,,,,,,,
-161,Colorado Avalanche,Sergei Boikov\boikose01,RU,D,19,2015,,Drummondville (QMJHL),,,,,,,,,,,,,
-162,Florida Panthers,Christopher Wilkie\wilkich01,US,RW,19,2015,,Tri-City (USHL),,,,,,,,,,,,,
-163,Dallas Stars,Markus Ruusu\ruusuma01,FI,G,18,2015,,JYP Jr. (Finland-Jr.),,,,,,,,,,,,,
-164,Chicago Blackhawks,Roy Radke\radkero01,US,RW,18,2015,,Barrie (OHL),,,,,,,,,,,,,
-165,Boston Bruins,Cameron Hughes\hugheca01,CA,C,18,2015,2021,Wisconsin (Big Ten),2,0,0,0,-2,0,,,,,,,-0.1
-166,Calgary Flames,Andrew Mangiapane\mangian01,CA,LW,19,2015,2022,Barrie (OHL),260,78,54,132,33,94,,,,,,,15.9
-167,Pittsburgh Penguins,Frederik Tiffels\tiffefr01,DE,LW,20,2015,,Western Michigan (NCHC),,,,,,,,,,,,,
-168,Winnipeg Jets,Mason Appleton\applema01,US,C,19,2015,2022,Tri-City (USHL),206,28,36,64,10,68,,,,,,,5.4
-169,Carolina Hurricanes,David Cotton\cottoda01,US,C,18,2015,,Cushing Academy (High-MA),,,,,,,,,,,,,
-170,Detroit Red Wings,Patrick Holway\holwapa01,US,D,18,2015,,Boston Advantage U18 (USMAAA),,,,,,,,,,,,,
-171,Minnesota Wild,Nicholas Boka\bokani01,US,D,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,
-172,New York Islanders,Andong Song\songan01,CN,D,18,2015,,Lawrenceville (Mid-Atlantic),,,,,,,,,,,,,
-173,Washington Capitals,Colby Williams\willico01,CA,D,20,2015,,Regina (WHL),,,,,,,,,,,,,
-174,Vancouver Canucks,Lukas Jasek\jaseklu01,CZ,RW,18,2015,,Trinec (Czech),,,,,,,,,,,,,
-175,Nashville Predators,Tyler Moy\moyty01,US,C,20,2015,,Harvard (ECAC),,,,,,,,,,,,,
-176,St. Louis Blues,Liam Dunda\dundali01,US,LW,18,2015,,Owen Sound (OHL),,,,,,,,,,,,,
-177,Montreal Canadiens,Simon Bourque\bourqsi01,CA,D,18,2015,,Rimouski (QMJHL),,,,,,,,,,,,,
-178,Anaheim Ducks,Steven Ruggiero\ruggist01,US,D,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,
-179,Anaheim Ducks,Garrett Metcalf\metcaga01,US,G,19,2015,,Madison (USHL),,,,,,,,,,,,,
-180,Tampa Bay Lightning,Bokondji Imama\imamabo01,CA,LW,19,2015,2022,Saint John (QMJHL),4,1,0,1,-2,5,,,,,,,0.1
-181,Chicago Blackhawks,Joni Tuulola\tuulojo01,FI,D,19,2015,,HPK (Finland),,,,,,,,,,,,,
-182,Buffalo Sabres,Ivan Chukarov\chukaiv01,US,D,20,2015,,Minnesota Wilderness (NAHL),,,,,,,,,,,,,
-183,Arizona Coyotes,Erik Kallgren\kallger01,SE,G,18,2015,2022,Linkoping Jr. (Sweden-Jr.),14,0,0,0,0,2,14,8,4,1,0.888,3.31,1.4
-184,New York Rangers,Adam Huska\huskaad01,SK,G,18,2015,2022,Green Bay (USHL),1,0,0,0,,0,1,0,1,0,0.821,7.04,-0.1
-185,Toronto Maple Leafs,Nikita Korostelev\korosni01,RU,RW,18,2015,,Sarnia (OHL),,,,,,,,,,,,,
-186,Carolina Hurricanes,Steven Lorentz\lorenst01,CA,C; LW,19,2015,2022,Peterborough (OHL),112,10,11,21,1,16,,,,,,,1.1
-187,Los Angeles Kings,Chaz Reddekopp\reddech01,CA,D,18,2015,,Victoria (WHL),,,,,,,,,,,,,
-188,Philadelphia Flyers,Ivan Fedotov\fedotiv01,RU,G,18,2015,,Nizhnekamsk 2 (Russia-Jr.),,,,,,,,,,,,,
-189,Columbus Blue Jackets,Markus Nutivaara\nutivma01,FI,D,21,2015,2022,Karpat (Finland),275,17,54,71,26,42,,,,,,,15
-190,San Jose Sharks,Marcus Vela\velama01,CA,C,18,2015,,Langley (BCHL),,,,,,,,,,,,,
-191,Colorado Avalanche,Gustav Olhaver\olhavgu01,SE,C,18,2015,,Rogle Jr. (Sweden-Jr.),,,,,,,,,,,,,
-192,Florida Panthers,Patrick Shea\sheapa02,US,C,18,2015,,Kimball Union (High-NH),,,,,,,,,,,,,
-193,San Jose Sharks,John Kupsky\kupskjo01,US,G,19,2015,,Lone Star (NAHL),,,,,,,,,,,,,
-194,Los Angeles Kings,Matt Roy\royma04,CA,D,20,2015,2022,Michigan Tech (WCHA),206,10,45,55,38,54,,,,,,,14.4
-195,Boston Bruins,Jack Becker\beckeja01,US,C,18,2015,,Mahtomedi (High-MN),,,,,,,,,,,,,
-196,Calgary Flames,Riley Bruce\bruceri01,CA,D,18,2015,,North Bay (OHL),,,,,,,,,,,,,
-197,Pittsburgh Penguins,Nikita Pavlychev\pavlyni01,RU,C,18,2015,,Des Moines (USHL),,,,,,,,,,,,,
-198,Winnipeg Jets,Sami Niku\nikusa01,FI,D,18,2015,2022,JYP 2 (Finland-2),67,2,14,16,-2,24,,,,,,,2.3
-199,Ottawa Senators,Joey Daccord\daccojo01,US,G,19,2015,2022,Cushing Academy (High-MA),14,0,0,0,0,0,14,1,8,1,0.878,3.81,1
-200,Detroit Red Wings,Adam Marsh\marshad01,US,LW,18,2015,,Saint John (QMJHL),,,,,,,,,,,,,
-201,Minnesota Wild,Gustav Bouramman\bouragu01,SE,D,18,2015,,Sault Ste. Marie (OHL),,,,,,,,,,,,,
-202,New York Islanders,Petter Hansson\hansspe01,SE,D,19,2015,,Linkoping Jr. (Sweden-Jr.),,,,,,,,,,,,,
-203,Winnipeg Jets,Matteo Gennaro\gennama01,CA,C,18,2015,,Prince Albert (WHL),,,,,,,,,,,,,
-204,Minnesota Wild,Jack Sadek\sadekja01,US,D,18,2015,,Lakeville North (High-MN),,,,,,,,,,,,,
-205,Nashville Predators,Evan Smith\smithev01,US,G,18,2015,,Austin (NAHL),,,,,,,,,,,,,
-206,Florida Panthers,Ryan Bednard\bednary01,US,G,18,2015,,Johnstown (NAHL),,,,,,,,,,,,,
-207,Montreal Canadiens,Jeremiah Addison\addisje01,CA,LW,18,2015,,Ottawa (OHL),,,,,,,,,,,,,
-208,Edmonton Oilers,Miroslav Svoboda\svobomi01,CZ,G,20,2015,,Trinec Jr. (Czech-Jr.),,,,,,,,,,,,,
-209,Edmonton Oilers,Ziyat Paigin\paigizi01,RU,D,20,2015,,Kazan (Russia),,,,,,,,,,,,,
-210,Vancouver Canucks,Tate Olson\olsonta01,CA,D,18,2015,,Prince George (WHL),,,,,,,,,,,,,
-211,Chicago Blackhawks,John Dahlstrom\dahlsjo01,SE,RW,18,2015,,Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,
+Overall,Team,Player,Nat.,Pos,Age,Start,End,Amateur Team,GP,G,A,PTS,+/-,PIM,GP,W,L,T/O,SV%,GAA,PS,Group
+1,Edmonton Oilers,Connor McDavid\mcdavco01,CA,C,18,2015,2022,Erie (OHL),487,239,458,697,92,183,,,,,,,82.4,
+2,Buffalo Sabres,Jack Eichel\eicheja01,US,C,18,2015,2022,Boston University (H-East),409,153,227,380,-66,152,,,,,,,41.1,
+3,Arizona Coyotes,Dylan Strome\stromdy01,CA,C,18,2015,2022,Erie (OHL),273,67,103,170,-30,86,,,,,,,15.3,
+4,Toronto Maple Leafs,Mitchell Marner\marnemi01,CA,C,18,2015,2022,London (OHL),427,138,317,455,71,138,,,,,,,47.5,
+5,Carolina Hurricanes,Noah Hanifin\hanifno01,US,D,18,2015,2022,Boston College (H-East),517,42,159,201,-22,130,,,,,,,32.8,
+6,New Jersey Devils,Pavel Zacha\zachapa01,CZ,C,18,2015,2022,Sarnia (OHL),386,69,110,179,-66,110,,,,,,,13.7,
+7,Philadelphia Flyers,Ivan Provorov\provoiv01,RU,D,18,2015,2022,Brandon (WHL),450,59,131,190,-11,172,,,,,,,34.2,
+8,Columbus Blue Jackets,Zach Werenski\werenza01,US,D,18,2015,2022,Michigan (Big Ten),403,76,161,237,-2,93,,,,,,,41,
+9,San Jose Sharks,Timo Meier\meierti01,CH,RW,18,2015,2022,Halifax (QMJHL),394,123,141,264,-20,234,,,,,,,27.8,
+10,Colorado Avalanche,Mikko Rantanen\rantami01,FI,RW,18,2015,2022,TPS (Finland),408,165,243,408,44,216,,,,,,,46.2,
+11,Florida Panthers,Lawson Crouse\crousla01,CA,LW,18,2015,2022,Kingston (OHL),346,56,54,110,-40,253,,,,,,,8.2,
+12,Dallas Stars,Denis Gurianov\guriade01,RU,RW,18,2015,2022,Togliatti 2 (Russia-Jr.),214,44,50,94,3,50,,,,,,,9.6,
+13,Boston Bruins,Jakub Zboril\zborija01,CZ,D,18,2015,2022,Saint John (QMJHL),54,0,12,12,1,22,,,,,,,2.3,
+14,Boston Bruins,Jake Debrusk\debruja01,CA,LW,18,2015,2022,Swift Current (WHL),321,92,84,176,21,67,,,,,,,19.9,
+15,Boston Bruins,Zachary Senyshyn\senysza01,CA,RW,18,2015,2022,Sault Ste. Marie (OHL),16,1,2,3,-1,4,,,,,,,0.1,
+16,New York Islanders,Mathew Barzal\barzama01,CA,C,18,2015,2022,Seattle (WHL),362,91,220,311,-1,192,,,,,,,30.1,
+17,Winnipeg Jets,Kyle Connor\connoky01,US,LW,18,2015,2022,Youngstown (USHL),384,178,166,344,-9,88,,,,,,,39.1,
+18,Ottawa Senators,Thomas Chabot\chaboth01,CA,D,18,2015,2022,Saint John (QMJHL),313,42,146,188,-62,150,,,,,,,25.5,
+19,Detroit Red Wings,Evgeny Svechnikov\svechev01,RU,LW,18,2015,2022,Cape Breton (QMJHL),113,12,19,31,-10,58,,,,,,,2,
+20,Minnesota Wild,Joel Eriksson Ek\eriksjo02,SE,C,18,2015,2022,Farjestad (Sweden),343,69,76,145,35,116,,,,,,,13.3,
+21,Ottawa Senators,Colin White\whiteco02,US,C,18,2015,2022,USA U-18 (USHL),224,36,62,98,-52,91,,,,,,,5.9,
+22,Washington Capitals,Ilya Samsonov\samsoil01,RU,G,18,2015,2022,Magnitogorsk 2 (Russia-Jr.),89,0,1,1,0,2,89,52,22,8,0.902,2.81,11.7,
+23,Vancouver Canucks,Brock Boeser\boesebr01,US,RW,18,2015,2022,Waterloo (USHL),324,121,135,256,-11,88,,,,,,,28.7,
+24,Philadelphia Flyers,Travis Konecny\konectr01,CA,C,18,2015,2022,Ottawa (OHL),428,110,161,271,-18,266,,,,,,,26.7,
+25,Winnipeg Jets,Jack Roslovic\rosloja01,US,C,18,2015,2022,USA U-18 (USHL),309,60,86,146,-3,44,,,,,,,13.3,
+26,Montreal Canadiens,Noah Juulsen\juulsno01,CA,D,18,2015,2022,Everett (WHL),56,2,8,10,-1,10,,,,,,,2,
+27,Anaheim Ducks,Jacob Larsson\larssja01,SE,D,18,2015,2022,Frolunda Jr. (Sweden-Jr.),165,3,21,24,-26,46,,,,,,,4.1,
+28,New York Islanders,Anthony Beauvillier\beauvan01,CA,LW,18,2015,2022,Shawinigan (QMJHL),408,93,96,189,-2,73,,,,,,,18.8,
+29,Columbus Blue Jackets,Gabriel Carlsson\carlsga01,SE,D,18,2015,2022,Linkoping Jr. (Sweden-Jr.),75,3,13,16,-4,22,,,,,,,2.4,
+30,Arizona Coyotes,Nicholas Merkley\merklni01,CA,RW,18,2015,2022,Kelowna (WHL),41,4,11,15,-7,11,,,,,,,0.9,
+31,San Jose Sharks,Jeremy Roy\royje02,CA,D,18,2015,,Sherbrooke (QMJHL),,,,,,,,,,,,,,
+32,Arizona Coyotes,Christian Fischer\fischch01,US,RW,18,2015,2022,USA U-18 (USHL),318,43,41,84,-53,77,,,,,,,5.2,
+33,Tampa Bay Lightning,Mitchell Stephens\stephmi01,CA,C,18,2015,2022,Saginaw (OHL),72,3,10,13,-22,18,,,,,,,-0.6,
+34,Toronto Maple Leafs,Travis Dermott\dermotr01,CA,D,18,2015,2022,Erie (OHL),268,13,41,54,33,100,,,,,,,11.1,
+35,Carolina Hurricanes,Sebastian Aho\ahose01,FI,RW,18,2015,2022,Karpat (Finland),445,182,219,401,72,172,,,,,,,48.6,
+36,Ottawa Senators,Gabriel Gagne\gagnega01,CA,RW,18,2015,,Victoriaville (QMJHL),,,,,,,,,,,,,,
+37,Boston Bruins,Brandon Carlo\carlobr01,US,D,18,2015,2022,Tri-City (WHL),403,21,49,70,60,227,,,,,,,22.3,
+38,Columbus Blue Jackets,Paul Bittner\bittnpa01,US,LW,18,2015,,Portland (WHL),,,,,,,,,,,,,,
+39,Colorado Avalanche,A.J. Greer\greeraj01,CA,LW,18,2015,2022,Boston University (H-East),47,2,6,8,-2,56,,,,,,,0.3,
+40,Colorado Avalanche,Nicolas Meloche\melocni01,CA,D,18,2015,2022,Baie Comeau (QMJHL),57,2,6,8,-16,39,,,,,,,1.3,
+41,New York Rangers,Ryan Gropp\groppry01,CA,LW,18,2015,,Seattle (WHL),,,,,,,,,,,,,,
+42,New Jersey Devils,Mackenzie Blackwood\blackma01,CA,G,18,2015,2022,Barrie (OHL),130,0,1,1,0,0,130,55,51,16,0.907,2.94,21.8,
+43,Los Angeles Kings,Erik Cernak\cernaer01,SK,D,18,2015,2022,Kosice (Slovakia),226,16,43,59,51,201,,,,,,,14.1,
+44,Tampa Bay Lightning,Matthew Spencer\spencma01,CA,D,18,2015,,Peterborough (OHL),,,,,,,,,,,,,,
+45,Boston Bruins,Jakob Forsbacka Karlsson\forsbja01,SE,C,18,2015,2019,Omaha (USHL),29,3,6,9,1,2,,,,,,,0.7,
+46,Pittsburgh Penguins,Daniel Sprong\spronda01,NL,RW,18,2015,2022,Charlottetown (QMJHL),202,46,24,70,-10,30,,,,,,,7.4,
+47,Winnipeg Jets,Jansen Harkins\harkija01,US,C,18,2015,2022,Prince George (WHL),132,10,12,22,-12,24,,,,,,,0.6,
+48,Ottawa Senators,Filip Chlapik\chlapfi01,CZ,C,18,2015,2021,Charlottetown (QMJHL),57,5,6,11,-13,18,,,,,,,0.2,
+49,Dallas Stars,Roope Hintz\hintzro01,FI,LW,18,2015,2022,Ilves (Finland),239,80,90,170,20,72,,,,,,,19.9,
+50,Minnesota Wild,Jordan Greenway\greenjo02,US,LW,18,2015,2022,USA U-18 (USHL),272,36,76,112,21,201,,,,,,,8.8,
+51,Buffalo Sabres,Brendan Guhle\guhlebr01,CA,D,18,2015,2022,Prince Albert (WHL),65,4,10,14,-9,24,,,,,,,2.5,
+52,Boston Bruins,Jeremy Lauzon\lauzoje01,CA,D,18,2015,2022,Rouyn-Noranda (QMJHL),142,5,13,18,6,152,,,,,,,5.4,
+53,Calgary Flames,Rasmus Andersson\anderra01,SE,D,18,2015,2022,Barrie (OHL),298,16,96,112,29,146,,,,,,,19.5,
+54,Chicago Blackhawks,Graham Knott\knottgr01,CA,LW,18,2015,,Niagara (OHL),,,,,,,,,,,,,,
+55,Nashville Predators,Yakov Trenin\treniya01,RU,C,18,2015,2022,Gatineau (QMJHL),146,24,17,41,12,77,,,,,,,3.7,
+56,St. Louis Blues,Vince Dunn\dunnvi02,CA,D,18,2015,2022,Niagara (OHL),340,39,98,137,1,173,,,,,,,23.7,
+57,Washington Capitals,Jonas Siegenthaler\siegejo01,CH,D,18,2015,2022,Zurich (Swiss),175,3,24,27,3,99,,,,,,,5.2,
+58,Columbus Blue Jackets,Kevin Stenlund\stenlke01,SE,C,18,2015,2022,HV 71 Jr. (Sweden-Jr.),71,11,9,20,-2,22,,,,,,,1.7,
+59,Anaheim Ducks,Julius Nattinen\nattiju01,FI,C,18,2015,,JYP 2 (Finland-2),,,,,,,,,,,,,,
+60,Calgary Flames,Oliver Kylington\kylinol01,SE,D,18,2015,2022,Farjestad (Sweden),168,14,33,47,30,40,,,,,,,10,
+61,Toronto Maple Leafs,Jeremy Bracco\braccje01,US,RW,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,,
+62,New York Rangers,Robin Kovacs\kovacro01,SE,RW,18,2015,,AIK (Sweden-2),,,,,,,,,,,,,,
+63,Arizona Coyotes,Kyle Capobianco\capobky01,CA,D,18,2015,2022,Sudbury (OHL),59,3,7,10,-18,42,,,,,,,1,
+64,Tampa Bay Lightning,Dennis Yan\yande01,US,LW,18,2015,,Shawinigan (QMJHL),,,,,,,,,,,,,,
+65,Toronto Maple Leafs,Andrew Nielsen\nielsan01,CA,D,18,2015,,Lethbridge (WHL),,,,,,,,,,,,,,
+66,Vancouver Canucks,Guillaume Brisebois\brisegu01,CA,D,18,2015,2022,Acadie-Bathurst (QMJHL),10,0,0,0,-5,0,,,,,,,-0.3,
+67,New Jersey Devils,Blake Speers\speerbl01,CA,C,18,2015,2022,Sault Ste. Marie (OHL),5,0,0,0,-3,2,,,,,,,-0.2,
+68,Toronto Maple Leafs,Martins Dzierkals\dzierma01,LV,LW,18,2015,,Riga 2 (Russia-Jr.),,,,,,,,,,,,,,
+69,Columbus Blue Jackets,Keegan Kolesar\koleske01,CA,RW,18,2015,2022,Seattle (WHL),122,10,27,37,-10,98,,,,,,,1.9,
+70,Philadelphia Flyers,Felix Sandstrom\sandsfe01,SE,G,18,2015,2022,Brynas Jr. (Sweden-Jr.),5,0,0,0,0,0,5,0,4,1,0.91,3.23,1,
+71,Colorado Avalanche,Jean-Christophe Beaudin\beaudje01,CA,C,18,2015,2020,Rouyn-Noranda (QMJHL),22,0,1,1,-4,7,,,,,,,-0.4,
+72,Tampa Bay Lightning,Anthony Cirelli\cirelan01,CA,C,18,2015,2022,Oshawa (OHL),294,66,93,159,79,150,,,,,,,16.3,
+73,Detroit Red Wings,Vili Saarijarvi\saarivi01,FI,D,18,2015,,Green Bay (USHL),,,,,,,,,,,,,,
+74,Los Angeles Kings,Alexander Dergachyov\dergaal01,RU,C,18,2015,,SKA St. Petersburg 2 (Russia-Jr.),,,,,,,,,,,,,,
+75,Boston Bruins,Daniel Vladar\vladada01,CZ,G,18,2015,2022,Kladno (Czech-2),28,0,1,1,0,0,28,15,8,3,0.902,2.88,3.8,
+76,Arizona Coyotes,Adin Hill\hillad01,CA,G,19,2015,2022,Portland (WHL),74,0,2,2,0,2,74,29,32,5,0.908,2.74,11.1,
+77,Florida Panthers,Sam Montembeault\montesa01,CA,G,18,2015,2022,Blainville-Boisbriand (QMJHL),63,0,1,1,0,0,63,17,26,9,0.892,3.54,6.8,
+78,Winnipeg Jets,Erik Foley\foleyer01,US,LW,18,2015,,Cedar Rapids (USHL),,,,,,,,,,,,,,
+79,New York Rangers,Sergey Zborovskiy\zborose01,RU,D,18,2015,,Regina (WHL),,,,,,,,,,,,,,
+80,Anaheim Ducks,Brent Gates\gatesbr01,US,C,18,2015,,Green Bay (USHL),,,,,,,,,,,,,,
+81,Arizona Coyotes,Brendan Warren\warrebr01,US,LW,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,,
+82,New York Islanders,Mitchell Vande Sompel\vandemi01,CA,D,18,2015,,Oshawa (OHL),,,,,,,,,,,,,,
+83,Arizona Coyotes,Jens Looke\lookeje01,SE,RW,18,2015,,Brynas (Sweden),,,,,,,,,,,,,,
+84,Anaheim Ducks,Deven Sideroff\siderde01,CA,RW,18,2015,,Kamloops (WHL),,,,,,,,,,,,,,
+85,Nashville Predators,Thomas Novak\novakth01,US,C,18,2015,2022,Waterloo (USHL),27,1,6,7,-4,2,,,,,,,0.1,
+86,San Jose Sharks,Mike Robinson\robinmi01,US,G,18,2015,,Lawrence Academy (High-MA),,,,,,,,,,,,,,
+87,Montreal Canadiens,Lukas Vejdemo\vejdelu01,SE,C,19,2015,2022,Djurgarden Jr. (Sweden-Jr.),13,2,0,2,-3,0,,,,,,,0.1,
+88,Florida Panthers,Thomas Schemitsch\schemth01,CA,D,18,2015,,Owen Sound (OHL),,,,,,,,,,,,,,
+89,New York Rangers,Aleksi Saarela\saareal01,FI,C,18,2015,2020,Assat (Finland),9,2,2,4,2,0,,,,,,,0.5,
+90,Philadelphia Flyers,Matej Tomek\tomekma01,SK,G,18,2015,,Topeka (NAHL),,,,,,,,,,,,,,
+91,Chicago Blackhawks,Dennis Gilbert\gilbede01,US,D,18,2015,2021,Chicago (USHL),25,1,2,3,-8,45,,,,,,,0,
+92,Buffalo Sabres,William Borgen\borgewi01,US,D,18,2015,2022,Moorhead (High-MN),50,2,6,8,-8,32,,,,,,,1.2,
+93,Carolina Hurricanes,Callum Booth\boothca01,CA,G,18,2015,,Quebec (QMJHL),,,,,,,,,,,,,,
+94,St. Louis Blues,Adam Musil\musilad01,CA,C,18,2015,,Red Deer (WHL),,,,,,,,,,,,,,
+95,Toronto Maple Leafs,Jesper Lindgren\lindgje01,SE,D,18,2015,,Modo Jr. (Sweden-Jr.),,,,,,,,,,,,,,
+96,Carolina Hurricanes,Nicolas Roy\royni01,CA,C,18,2015,2022,Chicoutimi (QMJHL),163,26,38,64,23,75,,,,,,,5.9,
+97,New Jersey Devils,Colton White\whiteco03,CA,D,18,2015,2022,Sault Ste. Marie (OHL),38,0,4,4,-3,14,,,,,,,0.7,
+98,Philadelphia Flyers,Samuel Dove-McFalls\dovemsa01,CA,LW,18,2015,,Saint John (QMJHL),,,,,,,,,,,,,,
+99,Los Angeles Kings,Austin Wagner\wagneau01,CA,LW,18,2015,2021,Regina (WHL),171,22,18,40,-17,70,,,,,,,3.2,
+100,Nashville Predators,Anthony Richard\richaan01,CA,C,18,2015,2020,Val d'Or (QMJHL),2,0,0,0,-2,0,,,,,,,-0.1,
+101,Colorado Avalanche,Andrei Mironov\mironan01,RU,D,21,2015,2018,Dynamo Moscow (Russia),10,1,2,3,2,12,,,,,,,0.7,
+102,Florida Panthers,Denis Malgin\malgide01,CH,C,18,2015,2020,Zurich (Swiss),192,28,32,60,-20,42,,,,,,,4.3,
+103,Dallas Stars,Chris Martenet\martech01,US,D,18,2015,,London (OHL),,,,,,,,,,,,,,
+104,Philadelphia Flyers,Mikhail Vorobyev\vorobmi01,RU,C,18,2015,2020,Ufa 2 (Russia-Jr.),35,2,3,5,-5,8,,,,,,,-0.1,
+105,Boston Bruins,Jesse Gabrielle\gabrije01,CA,LW,18,2015,,Regina (WHL),,,,,,,,,,,,,,
+106,San Jose Sharks,Adam Helewka\helewad01,CA,LW,20,2015,,Spokane (WHL),,,,,,,,,,,,,,
+107,Ottawa Senators,Christian Wolanin\wolanch01,CA,D,20,2015,2022,Muskegon (USHL),70,6,14,20,-7,16,,,,,,,3.1,
+108,Winnipeg Jets,Michael Spacek\spacemi01,CZ,RW,18,2015,,Pardubice (Czech),,,,,,,,,,,,,,
+109,Ottawa Senators,Filip Ahl\ahlfi01,SE,LW,18,2015,,HV 71 Jr. (Sweden-Jr.),,,,,,,,,,,,,,
+110,Detroit Red Wings,Joren Van Pottelberghe\vanpojo01,CH,G,18,2015,,Linkoping U18 (Sweden-Jr.),,,,,,,,,,,,,,
+111,Minnesota Wild,Ales Stezka\stezkal01,CZ,G,18,2015,,Liberec Jr. (Czech-Jr.),,,,,,,,,,,,,,
+112,New York Islanders,Parker Wotherspoon\wothepa01,CA,D,18,2015,,Tri-City (WHL),,,,,,,,,,,,,,
+113,New York Rangers,Brad Morrison\morribr03,CA,C,18,2015,,Prince George (WHL),,,,,,,,,,,,,,
+114,Vancouver Canucks,Dmitry Zhukenov\zhukedm01,RU,C,18,2015,,Omsk 2 (Russia-Jr.),,,,,,,,,,,,,,
+115,Nashville Predators,Alexandre Carrier\carrial01,CA,D,18,2015,2022,Gatineau (QMJHL),101,4,29,33,32,60,,,,,,,7.7,
+116,St. Louis Blues,Glenn Gawdin\gawdigl01,CA,C,18,2015,2022,Swift Current (WHL),9,0,1,1,-1,2,,,,,,,0,
+117,Edmonton Oilers,Caleb Jones\jonesca01,US,D,18,2015,2022,USA U-18 (USHL),144,10,24,34,-20,40,,,,,,,5.4,
+118,Tampa Bay Lightning,Jonne Tammela\tammejo01,FI,RW,18,2015,,Kalpa (Finland),,,,,,,,,,,,,,
+119,New York Rangers,Daniel Bernhardt\bernhda01,SE,RW,19,2015,,Djurgarden Jr. (Sweden-Jr.),,,,,,,,,,,,,,
+120,Tampa Bay Lightning,Mathieu Joseph\josepma01,CA,RW,18,2015,2022,Saint John (QMJHL),232,41,41,82,18,81,,,,,,,7.9,
+121,Chicago Blackhawks,Ryan Shea\sheary01,US,D,18,2015,,Boston College H.S. (High-MA),,,,,,,,,,,,,,
+122,Buffalo Sabres,Devante Stephens\stephde01,CA,D,18,2015,,Kelowna (WHL),,,,,,,,,,,,,,
+123,Arizona Coyotes,Conor Garland\garlaco01,US,RW,19,2015,2022,Moncton (QMJHL),241,66,82,148,17,94,,,,,,,16.8,
+124,Edmonton Oilers,Ethan Bear\bearet01,CA,D,18,2015,2022,Seattle (WHL),190,13,34,47,-15,77,,,,,,,8.5,
+125,Toronto Maple Leafs,Dmytro Timashov\timasdm01,UA,LW,18,2015,2021,Quebec (QMJHL),45,4,5,9,-1,16,,,,,,,0.6,
+126,Carolina Hurricanes,Luke Stevens\stevelu01,US,LW,18,2015,,Noble & Greenough (High-MA),,,,,,,,,,,,,,
+127,St. Louis Blues,Niko Mikkola\mikkoni01,FI,D,19,2015,2022,Kalpa Jr. (Finland-Jr.),89,4,13,17,-14,66,,,,,,,1.9,
+128,Philadelphia Flyers,David Kase\kaseda01,CZ,RW,18,2015,2021,Chomutov (Czech-2),7,1,0,1,1,0,,,,,,,0.1,
+129,Columbus Blue Jackets,Sam Ruopp\ruoppsa01,CA,D,19,2015,,Prince George (WHL),,,,,,,,,,,,,,
+130,San Jose Sharks,Karlis Cukste\cukstka01,LV,D,18,2015,,Riga 2 (Russia-Jr.),,,,,,,,,,,,,,
+131,Montreal Canadiens,Matthew Bradley\bradlma02,CA,C,18,2015,,Medicine Hat (WHL),,,,,,,,,,,,,,
+132,Florida Panthers,Karch Bachman\bachmka01,US,LW,18,2015,,Culver Academy (High-IN),,,,,,,,,,,,,,
+133,Dallas Stars,Joseph Cecconi\ceccojo01,US,D,18,2015,,Muskegon (USHL),,,,,,,,,,,,,,
+134,Los Angeles Kings,Matt Schmalz\schmama01,CA,RW,19,2015,,Sudbury (OHL),,,,,,,,,,,,,,
+135,Minnesota Wild,Kirill Kaprizov\kapriki01,RU,LW,18,2015,2022,Novokuznetsk (Russia),136,74,85,159,37,50,,,,,,,19.3,
+136,Calgary Flames,Pavel Karnaukhov\karnapa01,BY,LW,18,2015,,Calgary (WHL),,,,,,,,,,,,,,
+137,Pittsburgh Penguins,Dominik Simon\simondo01,CZ,C,21,2015,2022,Plzen (Czech),256,22,55,77,0,80,,,,,,,4.7,
+138,Carolina Hurricanes,Spencer Smallman\smallsp01,CA,RW,19,2015,,Saint John (QMJHL),,,,,,,,,,,,,,
+139,Ottawa Senators,Christian Jaros\jarosch01,SK,D,19,2015,2022,Lulea Jr. (Sweden-Jr.),94,1,13,14,-24,37,,,,,,,0.8,
+140,Detroit Red Wings,Chase Pearson\pearsch01,CA,C,18,2015,2022,Youngstown (USHL),3,0,0,0,0,0,,,,,,,0,
+141,Columbus Blue Jackets,Veeti Vainio\vainive01,FI,D,18,2015,,Blues Jr. (Finland-Jr.),,,,,,,,,,,,,,
+142,San Jose Sharks,Rudolfs Balcers\balceru01,LV,LW,18,2015,2022,Stavanger (Norway),153,25,32,57,-18,46,,,,,,,4.3,
+143,Washington Capitals,Connor Hobbs\hobbsco01,CA,D,18,2015,,Regina (WHL),,,,,,,,,,,,,,
+144,Vancouver Canucks,Carl Neill\neillca01,CA,D,19,2015,,Sherbrooke (QMJHL),,,,,,,,,,,,,,
+145,Nashville Predators,Karel Vejmelka\vejmeka01,CZ,G,19,2015,2022,Pardubice Jr. (Czech-Jr.),52,0,0,0,0,0,52,13,32,3,0.898,3.68,7.6,
+146,St. Louis Blues,Luke Opilka\opilklu01,US,G,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,,
+147,New York Islanders,Ryan Pilon\pilonry01,CA,D,18,2015,,Brandon (WHL),,,,,,,,,,,,,,
+148,Anaheim Ducks,Troy Terry\terrytr01,US,C RW,18,2015,2022,USA U-18 (USHL),204,52,63,115,-9,52,,,,,,,11.4,
+149,Vancouver Canucks,Adam Gaudette\gaudead01,US,C,18,2015,2022,Cedar Rapids (USHL),218,27,43,70,-37,84,,,,,,,4.4,
+150,Tampa Bay Lightning,Ryan Zuhlsdorf\zuhlsry01,US,D,18,2015,,Sioux City (USHL),,,,,,,,,,,,,,
+151,Chicago Blackhawks,Radovan Bondra\bondrra01,SK,RW,18,2015,,Kosice (Slovakia),,,,,,,,,,,,,,
+152,Buffalo Sabres,Giorgio Estephan\estepgi01,CA,C,18,2015,,Lethbridge (WHL),,,,,,,,,,,,,,
+153,Tampa Bay Lightning,Kristian Oldham\oldhakr01,US,G,18,2015,,Omaha (USHL),,,,,,,,,,,,,,
+154,Edmonton Oilers,John Marino\marinjo01,US,D,18,2015,2022,South Shore (USPHL),189,10,54,64,23,51,,,,,,,11.9,
+155,Toronto Maple Leafs,Stephen Desrocher\desrost01,CA,D,19,2015,,Oshawa (OHL),,,,,,,,,,,,,,
+156,Carolina Hurricanes,Jake Massie\massija01,CA,D,18,2015,,Kimball Union (High-NH),,,,,,,,,,,,,,
+157,New Jersey Devils,Brett Seney\seneybr01,CA,LW,19,2015,2022,Merrimack (H-East),55,5,8,13,-15,31,,,,,,,0.5,
+158,Philadelphia Flyers,Cooper Marody\marodco01,US,C,18,2015,2022,Sioux Falls (USHL),7,0,1,1,-1,0,,,,,,,0,
+159,Columbus Blue Jackets,Vladislav Gavrikov\gavrivl01,RU,D,19,2015,2022,Yaroslavl (Russia),204,12,51,63,-15,100,,,,,,,10.7,
+160,San Jose Sharks,Adam Parsells\parsead01,US,D,18,2015,,Wausau West (High-WI),,,,,,,,,,,,,,
+161,Colorado Avalanche,Sergei Boikov\boikose01,RU,D,19,2015,,Drummondville (QMJHL),,,,,,,,,,,,,,
+162,Florida Panthers,Christopher Wilkie\wilkich01,US,RW,19,2015,,Tri-City (USHL),,,,,,,,,,,,,,
+163,Dallas Stars,Markus Ruusu\ruusuma01,FI,G,18,2015,,JYP Jr. (Finland-Jr.),,,,,,,,,,,,,,
+164,Chicago Blackhawks,Roy Radke\radkero01,US,RW,18,2015,,Barrie (OHL),,,,,,,,,,,,,,
+165,Boston Bruins,Cameron Hughes\hugheca01,CA,C,18,2015,2021,Wisconsin (Big Ten),2,0,0,0,-2,0,,,,,,,-0.1,
+166,Calgary Flames,Andrew Mangiapane\mangian01,CA,LW,19,2015,2022,Barrie (OHL),260,78,54,132,33,94,,,,,,,15.9,
+167,Pittsburgh Penguins,Frederik Tiffels\tiffefr01,DE,LW,20,2015,,Western Michigan (NCHC),,,,,,,,,,,,,,
+168,Winnipeg Jets,Mason Appleton\applema01,US,C,19,2015,2022,Tri-City (USHL),206,28,36,64,10,68,,,,,,,5.4,
+169,Carolina Hurricanes,David Cotton\cottoda01,US,C,18,2015,,Cushing Academy (High-MA),,,,,,,,,,,,,,
+170,Detroit Red Wings,Patrick Holway\holwapa01,US,D,18,2015,,Boston Advantage U18 (USMAAA),,,,,,,,,,,,,,
+171,Minnesota Wild,Nicholas Boka\bokani01,US,D,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,,
+172,New York Islanders,Andong Song\songan01,CN,D,18,2015,,Lawrenceville (Mid-Atlantic),,,,,,,,,,,,,,
+173,Washington Capitals,Colby Williams\willico01,CA,D,20,2015,,Regina (WHL),,,,,,,,,,,,,,
+174,Vancouver Canucks,Lukas Jasek\jaseklu01,CZ,RW,18,2015,,Trinec (Czech),,,,,,,,,,,,,,
+175,Nashville Predators,Tyler Moy\moyty01,US,C,20,2015,,Harvard (ECAC),,,,,,,,,,,,,,
+176,St. Louis Blues,Liam Dunda\dundali01,US,LW,18,2015,,Owen Sound (OHL),,,,,,,,,,,,,,
+177,Montreal Canadiens,Simon Bourque\bourqsi01,CA,D,18,2015,,Rimouski (QMJHL),,,,,,,,,,,,,,
+178,Anaheim Ducks,Steven Ruggiero\ruggist01,US,D,18,2015,,USA U-18 (USHL),,,,,,,,,,,,,,
+179,Anaheim Ducks,Garrett Metcalf\metcaga01,US,G,19,2015,,Madison (USHL),,,,,,,,,,,,,,
+180,Tampa Bay Lightning,Bokondji Imama\imamabo01,CA,LW,19,2015,2022,Saint John (QMJHL),4,1,0,1,-2,5,,,,,,,0.1,
+181,Chicago Blackhawks,Joni Tuulola\tuulojo01,FI,D,19,2015,,HPK (Finland),,,,,,,,,,,,,,
+182,Buffalo Sabres,Ivan Chukarov\chukaiv01,US,D,20,2015,,Minnesota Wilderness (NAHL),,,,,,,,,,,,,,
+183,Arizona Coyotes,Erik Kallgren\kallger01,SE,G,18,2015,2022,Linkoping Jr. (Sweden-Jr.),14,0,0,0,0,2,14,8,4,1,0.888,3.31,1.4,
+184,New York Rangers,Adam Huska\huskaad01,SK,G,18,2015,2022,Green Bay (USHL),1,0,0,0,,0,1,0,1,0,0.821,7.04,-0.1,
+185,Toronto Maple Leafs,Nikita Korostelev\korosni01,RU,RW,18,2015,,Sarnia (OHL),,,,,,,,,,,,,,
+186,Carolina Hurricanes,Steven Lorentz\lorenst01,CA,C; LW,19,2015,2022,Peterborough (OHL),112,10,11,21,1,16,,,,,,,1.1,
+187,Los Angeles Kings,Chaz Reddekopp\reddech01,CA,D,18,2015,,Victoria (WHL),,,,,,,,,,,,,,
+188,Philadelphia Flyers,Ivan Fedotov\fedotiv01,RU,G,18,2015,,Nizhnekamsk 2 (Russia-Jr.),,,,,,,,,,,,,,
+189,Columbus Blue Jackets,Markus Nutivaara\nutivma01,FI,D,21,2015,2022,Karpat (Finland),275,17,54,71,26,42,,,,,,,15,
+190,San Jose Sharks,Marcus Vela\velama01,CA,C,18,2015,,Langley (BCHL),,,,,,,,,,,,,,
+191,Colorado Avalanche,Gustav Olhaver\olhavgu01,SE,C,18,2015,,Rogle Jr. (Sweden-Jr.),,,,,,,,,,,,,,
+192,Florida Panthers,Patrick Shea\sheapa02,US,C,18,2015,,Kimball Union (High-NH),,,,,,,,,,,,,,
+193,San Jose Sharks,John Kupsky\kupskjo01,US,G,19,2015,,Lone Star (NAHL),,,,,,,,,,,,,,
+194,Los Angeles Kings,Matt Roy\royma04,CA,D,20,2015,2022,Michigan Tech (WCHA),206,10,45,55,38,54,,,,,,,14.4,
+195,Boston Bruins,Jack Becker\beckeja01,US,C,18,2015,,Mahtomedi (High-MN),,,,,,,,,,,,,,
+196,Calgary Flames,Riley Bruce\bruceri01,CA,D,18,2015,,North Bay (OHL),,,,,,,,,,,,,,
+197,Pittsburgh Penguins,Nikita Pavlychev\pavlyni01,RU,C,18,2015,,Des Moines (USHL),,,,,,,,,,,,,,
+198,Winnipeg Jets,Sami Niku\nikusa01,FI,D,18,2015,2022,JYP 2 (Finland-2),67,2,14,16,-2,24,,,,,,,2.3,
+199,Ottawa Senators,Joey Daccord\daccojo01,US,G,19,2015,2022,Cushing Academy (High-MA),14,0,0,0,0,0,14,1,8,1,0.878,3.81,1,
+200,Detroit Red Wings,Adam Marsh\marshad01,US,LW,18,2015,,Saint John (QMJHL),,,,,,,,,,,,,,
+201,Minnesota Wild,Gustav Bouramman\bouragu01,SE,D,18,2015,,Sault Ste. Marie (OHL),,,,,,,,,,,,,,
+202,New York Islanders,Petter Hansson\hansspe01,SE,D,19,2015,,Linkoping Jr. (Sweden-Jr.),,,,,,,,,,,,,,
+203,Winnipeg Jets,Matteo Gennaro\gennama01,CA,C,18,2015,,Prince Albert (WHL),,,,,,,,,,,,,,
+204,Minnesota Wild,Jack Sadek\sadekja01,US,D,18,2015,,Lakeville North (High-MN),,,,,,,,,,,,,,
+205,Nashville Predators,Evan Smith\smithev01,US,G,18,2015,,Austin (NAHL),,,,,,,,,,,,,,
+206,Florida Panthers,Ryan Bednard\bednary01,US,G,18,2015,,Johnstown (NAHL),,,,,,,,,,,,,,
+207,Montreal Canadiens,Jeremiah Addison\addisje01,CA,LW,18,2015,,Ottawa (OHL),,,,,,,,,,,,,,
+208,Edmonton Oilers,Miroslav Svoboda\svobomi01,CZ,G,20,2015,,Trinec Jr. (Czech-Jr.),,,,,,,,,,,,,,
+209,Edmonton Oilers,Ziyat Paigin\paigizi01,RU,D,20,2015,,Kazan (Russia),,,,,,,,,,,,,,
+210,Vancouver Canucks,Tate Olson\olsonta01,CA,D,18,2015,,Prince George (WHL),,,,,,,,,,,,,,
+211,Chicago Blackhawks,John Dahlstrom\dahlsjo01,SE,RW,18,2015,,Frolunda Jr. (Sweden-Jr.),,,,,,,,,,,,,,

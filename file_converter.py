@@ -1,10 +1,10 @@
+#importing required libraries. 
+import os
+import csv
+import json
+#creating an iteratable directory list.
+
 def main():
-    #importing required libraries. 
-    import os
-    import csv
-    import json
-    #creating an iteratable directory list.
-    
     directory_list= os.listdir(r'D:\Coding Projects\Hockey Stats\DraftYear.csv\\')
     csvFileFolder = r'D:\Coding Projects\Hockey Stats\DraftYear.csv'
     jsonFileFolder = r'D:\Coding Projects\Hockey Stats\DraftYear.json'
