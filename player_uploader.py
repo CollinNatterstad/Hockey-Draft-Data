@@ -1,7 +1,9 @@
 
 import os
+from unicodedata import decimal
 import psycopg2 as pg
 from psycopg2 import sql
+from psycopg2.extras import execute_batch
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -73,17 +75,19 @@ def player_uploader():
     from big_hockey_data   
     limit 10;
     """)   
-   
+    
+    player_data = []
+
     #iterates over object cur to create a series of dictionaries that convert the data type and add key before merging and appending to external dictionary. 
     for row in cur:
         
-        d1 = {"player_name":(row[0])}
-        d2 = {"country_key":(row[1])}
-        d3 = {"team_name": (row[2])}
+        d1 = {'player_name':str((row[0]))}
+        d2 = {"country_key":str((row[1]))}
+        d3 = {"team_name": str((row[2]))}
         d4 = {"draft_year": int((row[3]))}
         d5 = {"draft_pick": int((row[4]))}
-        d6 = {"skating_group":(row[5])}
-        d7 = {"position":(row[6])}
+        d6 = {"skating_group":str((row[5]))}
+        d7 = {"position":str((row[6]))}
         d8 = {"games_played":int((row[7]))}
         d9 = {"goals":int((row[8]))}
         d10 ={"assists":int((row[9]))}
@@ -102,71 +106,20 @@ def player_uploader():
    
         #merge the dictionary variables into one dictionary. Necessary because otherwise data would be injecting key and value. Just want value. 
         instance_dict = d1|d2|d3|d4|d5|d6|d7|d8|d9|d10|d11|d12|d13|d14|d15|d16|d17|d18|d19|d20
+        player_data.append(instance_dict)
         
-        print(type(instance_dict))
-        '''cur.execute("""insert into player_table(
-         player
-        ,country_key
-        ,team_name
-        ,draft_year
-        ,skating_group
-        ,position
-        ,games_played
-        ,goals
-        ,assists
-        ,points
-        ,plus_minus
-        ,penalty_minutes
-        ,goalie_games_played
-        ,wins
-        ,losses
-        ,ties_and_overtime_losses
-        ,save_percentage
-        ,goals_against_average
-        ,point_share")
-        VALUES (%(player)s
-        ,%(country_key)s
-        ,%(team)s
-        ,%(draft_year)s
-        ,%(draft_pick)s
-        ,%(group)s
-        ,%(position)s
-        ,%(games_played)s
-        ,%(goals)s
-        ,%(assists)s
-        ,%(points)s
-        ,%(plus_minus)s
-        ,%(penalty_minutes)s
-        ,%(goalie_games_played)s
-        ,%(wins)s
-        ,%(losses)s
-        ,%(ties_and_overtime_losses)s
-        ,%(save_percentage)s
-        ,%(goals_against_average)s
-        ,%(point_share)s);"""
-        ,(player_name.values()
-        ,country_key.values()
-        ,team_name.values()
-        ,draft_year.values()
-        ,draft_pick.values()
-        ,group.values()
-        ,position.values()
-        ,games_played.values()
-        ,goals.values()
-        ,assists.values()
-        ,points.values()
-        ,plus_minus.values()
-        ,penalty_minutes.values()
-        ,goalie_games_played.values()
-        ,wins.values()
-        ,losses.values()
-        ,ties_and_overtime_losses.values()
-        ,save_percentage.values()
-        ,goals_against_average.values()
-        ,point_share.values()))
+    '''cur.executemany(""" insert into player_table(player_name,country_key,team_name,draft_year,draft_pick,skating_group,position
+    ,games_played,goals,assists,points,plus_minus,penalty_minutes,goalie_games_played,wins,losses,ties_and_overtime_losses
+    ,save_percentage, goals_against_average, point_share) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"""(player_data)) #str object not callable in this version'''
         
-        conn.commit()'''
+    for items in player_data:
         
+        cur.execute (""" insert into "player_table"(player_name,country_key,team_name,draft_year,draft_pick,skating_group,position
+        ,games_played,goals,assists,points,plus_minus,penalty_minutes,goalie_games_played,wins,losses,ties_and_overtime_losses
+        ,save_percentage, goals_against_average, point_share) VALUES ({});""".format(items.values()))
+
+        
+
         
 
       
