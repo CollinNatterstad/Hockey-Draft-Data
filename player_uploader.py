@@ -1,9 +1,9 @@
 
+
 import os
-from unicodedata import decimal
+import json
 import psycopg2 as pg
 from psycopg2 import sql
-from psycopg2.extras import execute_batch
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -48,6 +48,7 @@ def player_uploader():
     #creating a connection and cursor objects
     conn = pg.connect(database = db_name, user= db_user, password= db_user_pass, host= db_host, port= db_port,)
     cur = conn.cursor()
+    #confirms creation
     print('\ncreated cursor object:', cur)
 
     #cursor execution object
@@ -73,14 +74,14 @@ def player_uploader():
     , "PS"
 
     from big_hockey_data   
-    limit 10;
+    ;
     """)   
     
     player_data = []
 
     #iterates over object cur to create a series of dictionaries that convert the data type and add key before merging and appending to external dictionary. 
     for row in cur:
-        
+        #list of dictionaries to convert tuple value into desired datatype. 
         d1 = {'player_name':str((row[0]))}
         d2 = {"country_key":str((row[1]))}
         d3 = {"team_name": str((row[2]))}
@@ -102,31 +103,24 @@ def player_uploader():
         d19 ={"goals_against_average":float((row[18]))}
         d20 ={"point_share":float((row[19]))}
        
-
-   
-        #merge the dictionary variables into one dictionary. Necessary because otherwise data would be injecting key and value. Just want value. 
+        #merge the dictionary into one dictionary.
         instance_dict = d1|d2|d3|d4|d5|d6|d7|d8|d9|d10|d11|d12|d13|d14|d15|d16|d17|d18|d19|d20
+        #take instance dict and append to external list of each instance dict. 
         player_data.append(instance_dict)
-        
-    '''cur.executemany(""" insert into player_table(player_name,country_key,team_name,draft_year,draft_pick,skating_group,position
-    ,games_played,goals,assists,points,plus_minus,penalty_minutes,goalie_games_played,wins,losses,ties_and_overtime_losses
-    ,save_percentage, goals_against_average, point_share) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s);"""(player_data)) #str object not callable in this version'''
-        
-    for items in player_data:
-        
-        cur.execute (""" insert into "player_table"(player_name,country_key,team_name,draft_year,draft_pick,skating_group,position
+    
+    #sql query to insert dictionary data 
+    query = """
+        INSERT into player_table (player_name,country_key,team_name,draft_year,draft_pick,skating_group,position
         ,games_played,goals,assists,points,plus_minus,penalty_minutes,goalie_games_played,wins,losses,ties_and_overtime_losses
-        ,save_percentage, goals_against_average, point_share) VALUES ({});""".format(items.values()))
-
-        
-
-        
-
-      
-    
-
-    
-
+        ,save_percentage,goals_against_average,point_share) VALUES (%(player_name)s,%(country_key)s,%(team_name)s,%(draft_year)s,%(draft_pick)s
+        ,%(skating_group)s,%(position)s,%(games_played)s,%(goals)s,%(assists)s,%(points)s,%(plus_minus)s,%(penalty_minutes)s,%(goalie_games_played)s
+        ,%(wins)s,%(losses)s,%(ties_and_overtime_losses)s,%(save_percentage)s,%(goals_against_average)s,%(point_share)s) 
+    """  
+    #executes sql query by passing query and player_data as variables. Conversion is handled by psycopg2. Thankfully do not need to for-loop dictionary; MUCH faster. 
+    cur.executemany(query,player_data)
+    #commits changes to the data table. 
+    conn.commit()
+    #closes cursor and connection. 
     cur.close()
     print('\nclosed cursor object:', cur)
     conn.close()
