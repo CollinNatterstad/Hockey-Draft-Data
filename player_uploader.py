@@ -1,7 +1,6 @@
 
 
 import os
-import json
 import psycopg2 as pg
 from psycopg2 import sql
 from dotenv import load_dotenv
@@ -75,8 +74,9 @@ def player_uploader():
 
     from big_hockey_data   
     ;
-    """)   
-    
+    """) 
+
+    #open list to store dictionaries created within cursor for-loop.
     player_data = []
 
     #iterates over object cur to create a series of dictionaries that convert the data type and add key before merging and appending to external dictionary. 
