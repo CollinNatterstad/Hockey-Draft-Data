@@ -1,4 +1,3 @@
-from multiprocessing.connection import Connection
 import os
 import json
 import psycopg2 as pg
@@ -18,16 +17,13 @@ load_dotenv()
     I(nterface Segregation)
     D(ependency Inversion): We want classes to depend on abstraction not concrete subclasses. You can create different abstract methods to pass into other classes 
 
-    
-
 '''
-
 
 class Psql_Interaction:
     def __init__(self) -> None:
         pass
     
-class connection(Psql_Interaction):    
+class Connection(Psql_Interaction):    
     
     def __init__(self,db_name:str,db_user:str,db_user_pass:str,db_host:str,db_port:str):
         
@@ -40,22 +36,20 @@ class connection(Psql_Interaction):
     def __enter__(self):
         self.conn = pg.connect(database = self.name, user= self.user, password= self.user_pass, host= self.host, port= self.port)
         self.cur = self.conn.cursor()
-        return self.conn, self.cur 
+        return self.conn, self.cur
     
     def __exit__(self,exception_type, exception_value, exception_traceback):
         self.cur.close()
         self.conn.close()
 
+#class cursor_object(Connection):
+    
+
 
     
     #variables are stored in local .env file. stipulates the connection factors for the postgress server 
-db_host= os.getenv("DB_HOST")
-db_name= os.getenv("DB_NAME")
-db_user= os.getenv("DB_USER")
-db_user_pass= os.getenv("DB_USER_PASS")
-db_port= os.getenv("DB_PORT")
+
 
 #calls the connection class and supplies appropriate arguments. With acts as a context manager 
-with connection(db_name, db_user, db_user_pass,db_host,db_port) as conn:
-    self.cur.execute("""select * from player_table limit 1""")
-    
+with Connection(db_name= os.getenv("DB_NAME"), db_user= os.getenv("DB_USER"), db_user_pass= os.getenv("DB_USER_PASS"),db_host= os.getenv("DB_HOST"),db_port= os.getenv("DB_PORT")):
+    print('granted')
